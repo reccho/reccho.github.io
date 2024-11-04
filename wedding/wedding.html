@@ -3,37 +3,39 @@
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Kate & Evan are getting married!</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!--    <meta name="theme-color" content="#ffffff">-->
     <link rel="stylesheet" href="https://matcha.mizu.sh/matcha.css">
     <title>Wedding Info</title>
   </head>
   <body>
-    <nav>
-      <a href="./index.html">Home</a>
-    </nav>
 
-    <div id="when" style="text-align:center;">
-      <h2>When?</h2>
-      <p>
-        4.9.2025
-      </p>
-      <script src="./scripts/main.js"></script>
-      <div class="countdown" id="countdown">
-
+    <section id="invitation" class="section-padding">
+      <div>
+        <h3>We are getting married</h3>
+        <p>We'd love for you to be there on <b>Sep 4<sup>th</sup>, 2025</b> to celebrate with us.</p>
       </div>
-    </div>
+      <div id="countdown">
+        <script src="./scripts/countdown.js"></script>
+      </div>
+    </section>
 
 
-    <div id="where" style="text-align:center;">
-      <h2>Where?</h2>
-    </div>
+    <section id="map" class="section-padding">
+      <div class="text-center">
+        <h3>Where will it be?</h3>
+        <p>Statek u Kapli&#269;ky</p>
+        <p>Nov&#225; Ves pod Ple&#353;&#237; 24, 262 04 Nov&#225; Ves pod Ple&#353;&#237;</p>
+      </div>
+    </section>
 
-    <div id="rsvp" style="text-align:center;">
-      <h2>RSVP</h2>
-    </div>
+    <section id="rsvp" class="section-padding">
+      <h3>RSVP</h3>
+    </section>
 
-    <div id="program" style="text-align:center;">
-      <h2>Program</h2>
+    <section id="program" class="section-padding">
+      <h3>Program</h3>
       <table>
         <tr>
           <td>13:00</td>
@@ -56,11 +58,11 @@
           <td>Bar closes</td>
         </tr>
       </table>
-    </div>
+    </section>
 
-    <div id="gifts" style="text-align:center;">
-      <h2>Gifts?</h2>
-    </div>
+    <!-- pics -->
+    <!-- gifts - section or button? -->
+    <!-- dress code button? -->
 
   </body>
 </html>
