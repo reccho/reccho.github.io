@@ -66,6 +66,7 @@
     <!-- dress code button? -->
 
     <section id='rsvp' class='section-padding'>
+
       <h3>RSVP</h3>
 <!--      <form id='rsvp-form' method='POST' action='https://script.google.com/macros/s/AKfycbxzWWWTkBxLs-vw99MFN-X7p-03c9oQ_pOVMh4R7-TZ3t20FLT9-gtOEG7V9IO7y9sMYA/exec'>-->
       <form id='rsvp-form' method='POST' action=''>
@@ -73,16 +74,13 @@
           <input name='Name' placeholder='Your name' required>
           <input type='email' name='Email' placeholder='Your email'>
           <input type='number' name='Party' placeholder='How many will you be?' min='0' max='11' required>
-          <button id='rsvp-submit' type="submit">We'll be there!</button>
+          <button id='rsvp-submit' type='submit' data-dismiss='modal'>We'll be there!</button>
         </div>
-
       </form>
-
 
     </section>
 
-
-    <script src='./scripts/rsvp.js'></script>
     <script src='./scripts/countdown.js'></script>
+    <script src='./scripts/rsvp.js'></script>
   </body>
 </html>

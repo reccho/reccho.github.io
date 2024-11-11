@@ -8,7 +8,7 @@ form.addEventListener('submit', e => {
     let requestBody = new FormData(form)
     fetch(scriptURL, { method: 'POST', body: requestBody})
         .then(response => {
-        alert('Success!', response)
+        alert('Thank you!', response)
         submitButton.disabled = false
     })
         .catch(error => {
