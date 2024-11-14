@@ -4,23 +4,22 @@
     <meta charset='UTF-8' />
     <meta http-equiv='X-UA-Compatible' content='IE=edge' />
     <title>Kate & Evan are getting married!</title>
+    <meta name="description" content="We would like to invite you to our big day.">
     <meta name='viewport' content='width=device-width, initial-scale=1.0' />
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-    <!--    <meta name='theme-color' content='#ffffff'>-->
-    <link rel='stylesheet' href='https://matcha.mizu.sh/matcha.css'>
     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
-    <title>Wedding Info</title>
+    <link rel="stylesheet" href="css/normalize.min.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!--    <meta name='theme-color' content='#ffffff'>-->
+    <link rel='stylesheet' href='https://matcha.mizu.sh/matcha.css'>
   </head>
   <body>
     <section id='hero'>
       <div class="container">
         <div class="row">
           <div class ="hero-content  text-center">
-            <img src="./img/kate.jpg">
+            <img src="./img/kate.jpg" alt="A cute girl">
           </div>
         </div>
       </div>
@@ -28,80 +27,100 @@
 
     <section id='invitation' class='section-padding'>
       <div class="container text-center">
-        <div>
-          <h3>We are getting married</h3>
-          <p>We'd love for you to be there on <b>Sep 4<sup>th</sup>, 2025</b> to celebrate with us.</p>
+        <div class="row">
+          <div class="col-md-12 text-center">
+            <h3>We are getting married!</h3>
+            <p>We'd love for you to be there on <b>Sep 4<sup>th</sup>, 2025</b> to celebrate with us.</p>
+          </div>
         </div>
-        <div>
+        <div class="row">
           <nav>
-            <div><a href='#rsvp' class='btn btn-accent btn-large rsvp-btn'>RSVP</a></div>
+            <div class="col-md-12 hidden-xs text-center"><a href="#rsvp" class="btn btn-accent btn-large rsvp-btn">RSVP</a></div>
           </nav>
         </div>
-        <div id='countdown'></div>
+        <div class="row">
+          <div id='countdown' class="col-md-12 text-center"></div>
+        </div>
       </div>
     </section>
 
-
     <section id='map' class='section-padding'>
       <div class="container text-center">
-        <div>
-          <h3>Where will it be?</h3>
-          <p>Statek u Kapli&#269;ky</p>
-          <p>Nov&#225; Ves pod Ple&#353;&#237; 24, 262 04 Nov&#225; Ves pod Ple&#353;&#237;</p>
-          <a href='https://maps.app.goo.gl/p7LWDs9Ru4oiETEQ7'>Google Maps</a>
-          <a href='https://mapy.cz/s/hacobebapa'>Mapy.cz</a>
+        <div class="row">
+          <div class="col-md-12 text-center">
+            <h3>Where will it be?</h3>
+            <p>Statek u Kapli&#269;ky</p>
+            <p>Nov&#225; Ves pod Ple&#353;&#237; 24, 262 04 Nov&#225; Ves pod Ple&#353;&#237;</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-3 hidden-xs"></div>
+          <div class="col-xs-3"><a href='https://maps.app.goo.gl/p7LWDs9Ru4oiETEQ7'>Google Maps</a></div>
+          <div class="col-xs-3"><a href='https://mapy.cz/s/hacobebapa'>Mapy.cz</a></div>
+          <div class="col-xs-3 hidden-xs"></div>
         </div>
       </div>
     </section>
 
     <section id='program' class='section-padding'>
-      <div class="container text-center">
-        <h3>Program</h3>
-        <table>
-          <tr>
-            <td>13:00</td>
-            <td>Ceremony</td>
-          </tr>
-          <tr>
-            <td>15:00</td>
-            <td>Lunch</td>
-          </tr>
-          <tr>
-            <td>17:00</td>
-            <td>Dinner Buffet</td>
-          </tr>
-          <tr>
-            <td>19:00</td>
-            <td>After Party</td>
-          </tr>
-          <tr>
-            <td>3:00</td>
-            <td>Bar closes</td>
-          </tr>
-        </table>
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-6 col-sm-offset-3 text-center">
+            <h3>Program</h3>
+            <table>
+              <tr>
+                <td>13:00</td>
+                <td>Ceremony</td>
+              </tr>
+              <tr>
+                <td>15:00</td>
+                <td>Lunch</td>
+              </tr>
+              <tr>
+                <td>17:00</td>
+                <td>Dinner Buffet</td>
+              </tr>
+              <tr>
+                <td>19:00</td>
+                <td>After Party</td>
+              </tr>
+              <tr>
+                <td>3:00</td>
+                <td>Bar closes</td>
+              </tr>
+            </table>
+          </div>
+        </div>
       </div>
     </section>
 
     <!-- pics -->
     <!-- gifts - section or button? -->
     <!-- dress code button? -->
+    <!-- photo share Drive/Eventi/Instagram? -->
+    <!-- https://sayi.do/articles/complete-guide-wedding-website-must-haves -->
+    <!-- https://github.com/rampatra/wedding-website/blob/master/index.html -->
 
     <section id='rsvp' class='section-padding'>
-      <div class="container text-center">
-        <h3>RSVP</h3>
-  <!--      <form id='rsvp-form' method='POST' action='https://script.google.com/macros/s/AKfycbxzWWWTkBxLs-vw99MFN-X7p-03c9oQ_pOVMh4R7-TZ3t20FLT9-gtOEG7V9IO7y9sMYA/exec'>-->
-        <form id='rsvp-form' method='POST' action=''>
-          <div>
-            <input name='Name' placeholder='Your name' required>
-            <input type='email' name='Email' placeholder='Your email'>
-            <input type='number' name='Party' placeholder='How many will you be?' min='0' max='11' required>
-            <button id='rsvp-submit' type='submit' data-dismiss='modal'>We'll be there!</button>
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-6 col-sm-offset-3 text-center">
+            <h3>RSVP</h3>
+            <form id='rsvp-form' method='POST' action=''>
+              <div>
+                <input name='Name' placeholder='Your name' required>
+                <input type='email' name='Email' placeholder='Your email'>
+                <input type='number' name='Party' placeholder='How many will you be?' min='0' max='11' required>
+                <button id='rsvp-submit' type='submit' data-dismiss='modal'>We'll be there!</button>
+              </div>
+            </form>
           </div>
-        </form>
+        </div>
+  <!--      <form id='rsvp-form' method='POST' action='https://script.google.com/macros/s/AKfycbxzWWWTkBxLs-vw99MFN-X7p-03c9oQ_pOVMh4R7-TZ3t20FLT9-gtOEG7V9IO7y9sMYA/exec'>-->
       </div>
     </section>
 
-    <script src='./scripts/countdown.js'></script>
-    <script src='./scripts/rsvp.js'></script>
+    <script src='./scripts/countdown.min.js'></script>
+    <script src='./scripts/rsvp.min.js'></script>
   </body>
 </html>
