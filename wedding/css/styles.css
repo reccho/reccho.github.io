@@ -1,16 +1,25 @@
 .hero-content h1, h2, h3, h4, h5 {
     padding-top: 5%;
     font-family: "Windsong", serif;
-    font-color: #000000;
     font-weight: 100;
     font-size: 100px;
+    color: #000000;
 }
 .hero-content img {
     width: 55%;
     margin-bottom: 0%;
 }
 
+/*a {*/
+/*  color: #112d4e;*/
+/*}*/
 
+.btn {
+    color: #239743;
+    border:40px solid #239743;
+    border-style: solid;
+    border-radius:5px;
+}
 
         /*.windsong-regular {*/
 /*  font-family: "WindSong", serif;*/
