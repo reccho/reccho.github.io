@@ -1,13 +1,74 @@
-
-
-
-.btn-large {
-    padding: 15px 40px;
+.hero-content h1, h2, h3, h4, h5 {
+    padding-top: 5%;
+    font-family: "Windsong", serif;
+    font-color: #000000;
+    font-weight: 100;
+    font-size: 100px;
+}
+.hero-content img {
+    width: 55%;
+    margin-bottom: 0%;
 }
 
-.rsvp .rsvp-form .rsvp-btn {
-    padding: 15px 0;
-    border-radius: 3px;
-    width: 100%;
-    font-size: 13px;
-}
+
+
+        /*.windsong-regular {*/
+/*  font-family: "WindSong", serif;*/
+/*  font-weight: 400;*/
+/*  font-style: normal;*/
+/*}*/
+/*.windsong-medium {*/
+/*  font-family: "WindSong", serif;*/
+/*  font-weight: 500;*/
+/*  font-style: normal;*/
+/*}*/
+/*.open-sans-body {*/
+/*  font-family: "Open Sans", sans-serif;*/
+/*  font-optical-sizing: auto;*/
+/*  font-weight: 300;*/
+/*  font-style: normal;*/
+/*  font-variation-settings:*/
+/*    "wdth" 100;*/
+/*}*/
+/*.whisper-regular {*/
+/*  font-family: "Whisper", serif;*/
+/*  font-weight: 400;*/
+/*  font-style: normal;*/
+/*}*/
+
+
+/*body {*/
+/*    background-color: #5A6EFF;*/
+/*    font: 100, "Open Sans", sans-serif;*/
+/*    color: #d02828;*/
+/*    -webkit-text-size-adjust: 100%*/
+/*}*/
+
+
+/*.section-padding {*/
+/*    padding: 40px 0;*/
+/*}*/
+
+
+/*p {*/
+/*    font-size: 15px;*/
+/*    line-height: 29px;*/
+/*    color: rgba(28, 54, 83, .6);*/
+/*    padding-bottom: 20px;*/
+/*}*/
+/*h3 {*/
+/*    color: #51555e;*/
+/*    font-size: 18px;*/
+/*    font-weight: 700;*/
+/*    text-transform: uppercase;*/
+/*    letter-spacing: 3px;*/
+/*    line-height: 29px;*/
+/*}*/
+
+/*.features p {*/
+/*    margin-bottom: 0;*/
+/*    padding-bottom: 0;*/
+/*}*/
+/*.features h3 {*/
+/*    margin: 0 0 20px 0;*/
+/*}*/
