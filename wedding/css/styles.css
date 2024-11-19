@@ -1,83 +1,74 @@
+p {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    color: #1C365399;
+    -webkit-text-size-adjust: 100%
+}
+h3 {
+    color: #3d4351;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    line-height: 29px;
+}
+
+/*body {*/
+/*    font-family: "Open Sans", sans-serif;*/
+/*    font-weight: 300;*/
+/*    color: rgba(28, 54, 83, .6);*/
+/*    -webkit-text-size-adjust: 100%*/
+/*}*/
+
 .hero-content h1, h2, h3, h4, h5 {
     padding-top: 5%;
     font-family: "Windsong", serif;
     font-weight: 100;
     font-size: 100px;
-    color: #000000;
+    color: #3d4351;
 }
 .hero-content img {
     width: 55%;
     margin-bottom: 0%;
 }
 
-/*a {*/
-/*  color: #112d4e;*/
-/*}*/
-
 .btn {
     color: #239743;
-    border:40px solid #239743;
-    border-style: solid;
-    border-radius:5px;
+    outline: 1px solid #239743;
+    margin: 8px;
 }
 
-        /*.windsong-regular {*/
-/*  font-family: "WindSong", serif;*/
-/*  font-weight: 400;*/
-/*  font-style: normal;*/
-/*}*/
-/*.windsong-medium {*/
-/*  font-family: "WindSong", serif;*/
-/*  font-weight: 500;*/
-/*  font-style: normal;*/
-/*}*/
-/*.open-sans-body {*/
-/*  font-family: "Open Sans", sans-serif;*/
-/*  font-optical-sizing: auto;*/
-/*  font-weight: 300;*/
-/*  font-style: normal;*/
-/*  font-variation-settings:*/
-/*    "wdth" 100;*/
-/*}*/
-/*.whisper-regular {*/
-/*  font-family: "Whisper", serif;*/
-/*  font-weight: 400;*/
-/*  font-style: normal;*/
-/*}*/
+table, th, td {
+    width: 80%;
+    table-layout: fixed;
+    margin-left: auto;
+    margin-right: auto;
+/*    border: 1px solid;*/
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    color: #1C365399;
+    -webkit-text-size-adjust: 100%
+}
 
-
-/*body {*/
-/*    background-color: #5A6EFF;*/
-/*    font: 100, "Open Sans", sans-serif;*/
-/*    color: #d02828;*/
-/*    -webkit-text-size-adjust: 100%*/
-/*}*/
-
-
-/*.section-padding {*/
-/*    padding: 40px 0;*/
-/*}*/
-
-
-/*p {*/
-/*    font-size: 15px;*/
-/*    line-height: 29px;*/
-/*    color: rgba(28, 54, 83, .6);*/
-/*    padding-bottom: 20px;*/
-/*}*/
-/*h3 {*/
-/*    color: #51555e;*/
-/*    font-size: 18px;*/
-/*    font-weight: 700;*/
-/*    text-transform: uppercase;*/
-/*    letter-spacing: 3px;*/
-/*    line-height: 29px;*/
-/*}*/
-
-/*.features p {*/
-/*    margin-bottom: 0;*/
-/*    padding-bottom: 0;*/
-/*}*/
-/*.features h3 {*/
-/*    margin: 0 0 20px 0;*/
-/*}*/
+input[type=text], input[type=email], input[type=number], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 4px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+button[type=submit] {
+  width: 100%;
+  background-color: #3abd5e;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+button[type=submit]:hover {
+  background-color: #239743;
+}
