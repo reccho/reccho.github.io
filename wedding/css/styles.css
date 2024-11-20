@@ -1,47 +1,29 @@
-p {
+:root {
+    /* Backgrounds */
+    --primary-background: #fffff6;
+    --secondary-background: #CCCCCCFF;
+    /* Colors */
+    --primary-text-color: #1C365399;
+    --secondary-text-color: #3d4351;
+    --tertiary-text-color: #FFFFFFFF;
+    --primary-btn-color: #3abd5e;
+    --secondary-btn-color: #239743;
+}
+
+body {
+    background-color: var(--primary-background);
     font-family: "Open Sans", sans-serif;
+    font-size: 12px;
     font-weight: 400;
-    color: #1C365399;
+    color: var(--primary-text-color);
     -webkit-text-size-adjust: 100%
 }
 h3 {
-    color: #3d4351;
+    color: var(--secondary-text-color);
     font-size: 18px;
-    font-weight: 700;
-    text-transform: uppercase;
+    font-weight: 500;
     letter-spacing: 2px;
     line-height: 29px;
-}
-
-
-/*body {*/
-/*    font-family: "Open Sans", sans-serif;*/
-/*    font-weight: 300;*/
-/*    color: rgba(28, 54, 83, .6);*/
-/*    -webkit-text-size-adjust: 100%*/
-/*}*/
-
-.hero-content h1, h2, h3, h4, h5 {
-    padding-top: 5%;
-    font-family: "Windsong", serif;
-    font-weight: 100;
-    font-size: 64px;
-    color: #3d4351;
-}
-.hero-content img {
-    width: 55%;
-    margin-bottom: 0%;
-}
-
-.pic img {
-    width: 55%;
-    margin-bottom: 0%;
-}
-
-.btn {
-    color: #239743;
-    outline: 1px solid #239743;
-    margin: 8px;
 }
 
 table, th, td {
@@ -50,9 +32,8 @@ table, th, td {
     margin-left: auto;
     margin-right: auto;
 /*    border: 1px solid;*/
-    font-family: "Open Sans", sans-serif;
     font-weight: 400;
-    color: #1C365399;
+    color: var(--primary-text-color);
     -webkit-text-size-adjust: 100%
 }
 
@@ -61,14 +42,14 @@ input[type=text], input[type=email], input[type=number], select {
     padding: 12px 20px;
     margin: 4px 0;
     display: inline-block;
-    border: 1px solid #ccc;
+    border: 1px solid var(--secondary-background);
     border-radius: 4px;
     box-sizing: border-box;
 }
 button[type=submit] {
     width: 100%;
-    background-color: #3abd5e;
-    color: white;
+    background-color: var(--primary-btn-color);
+    color: var(--tertiary-text-color);
     padding: 14px 20px;
     margin: 8px 0;
     border: none;
@@ -76,5 +57,23 @@ button[type=submit] {
     cursor: pointer;
 }
 button[type=submit]:hover {
-  background-color: #239743;
+  background-color: var(--secondary-btn-color);
+}
+
+.btn {
+    color: var(--primary-btn-color);
+    outline: 1px solid var(--primary-btn-color);
+    margin: 8px;
+}
+
+.hero-content > h1 {
+    padding-top: 5%;
+    font-family: "Windsong", serif;
+    font-weight: 100;
+    font-size: 64px;
+    color: var(--secondary-text-color);
+}
+.hero-content > img {
+    width: 55%;
+    margin-bottom: 0%;
 }
