@@ -45,6 +45,7 @@ input[type=text], input[type=email], input[type=number], select {
     border: 1px solid var(--secondary-background);
     border-radius: 4px;
     box-sizing: border-box;
+    -webkit-appearance: none
 }
 button[type=submit] {
     width: 100%;
