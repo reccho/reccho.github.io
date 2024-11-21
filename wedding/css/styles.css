@@ -2,6 +2,7 @@
     /* Backgrounds */
     --primary-background: #fffff6;
     --secondary-background: #CCCCCCFF;
+    --tertiary-background: #0000003F;
     /* Colors */
     --primary-text-color: #1C365399;
     --secondary-text-color: #3d4351;
@@ -51,6 +52,7 @@ button[type=submit], input[type=text], input[type=email], input[type=number], se
     box-sizing: border-box;
     -moz-box-sizing: border-box;
     -webkit-appearance: none;
+    box-shadow: 1px 1px 2px var(--tertiary-background);
 }
 button[type=submit] {
     padding: 14px 20px;
@@ -60,10 +62,6 @@ button[type=submit] {
 }
 button[type=submit]:hover {
     background-color: var(--secondary-btn-color);
-}
-input[type=text] {
-    border: 1px solid var(--secondary-background);
-    border-radius: 4px;
 }
 /*input[type=text], input[type=email], input[type=number], select {*/
 /*    width: 100%;*/
