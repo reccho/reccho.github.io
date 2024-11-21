@@ -81,6 +81,11 @@ table, th, td {
     border-radius: 50%;
 }
 
+#countdown {
+    font-family: "Whisper", sans-serif;
+    font-size: 36px;
+}
+
 .hero-content > h1 {
     padding-top: 5%;
     font-family: "Windsong", serif;
