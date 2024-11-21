@@ -5,7 +5,7 @@
     --tertiary-background: #0000003F;
     /* Colors */
     --primary-text-color: #1C365399;
-    --secondary-text-color: #3d4351;
+    --secondary-text-color: #252833;
     --tertiary-text-color: #FFFFFFFF;
     --primary-btn-color: #3abd5e;
     --secondary-btn-color: #239743;
@@ -66,10 +66,12 @@ table, th, td {
     background-color: var(--primary-btn-color);
     font-size: 18px;
     cursor: pointer;
-    transition: background-color 200ms;
 }
 .button-submit:hover {
     background-color: var(--secondary-btn-color);
+}
+.button-submit:active {
+  color: var(--secondary-btn-color);
 }
 
 .btn {
