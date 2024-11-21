@@ -11,7 +11,7 @@ var countdownInterval = setInterval(function() {
     const seconds = Math.floor((timeRemain % (1000 * 60)) / 1000);
 
     //document.getElementById("countdown").innerHTML = days + " days & " + hours + " hours";
-    document.getElementById("countdown").innerHTML = days + " days, " + hours + " hours, " + minutes + "minutes, " + seconds + " seconds";
+    document.getElementById("countdown").innerHTML = days + " days, " + hours + " hours, " + minutes + " minutes, " + seconds + " seconds";
 
     if (timeRemain < 0) {
         clearInterval(x);
