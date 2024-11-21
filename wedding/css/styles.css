@@ -4,11 +4,11 @@
     --secondary-background: #CCCCCCFF;
     --tertiary-background: #0000003F;
     /* Element Colors */
-    --primary-text-color: #1C365399;
+    --primary-text-color: #1c365399;
     --secondary-text-color: #252833;
     --tertiary-text-color: #FFFFFFFF;
-    --primary-btn-color: #3abd5e;
-    --secondary-btn-color: #239743;
+    --primary-btn-color: #d4af37;
+    --secondary-btn-color: #cba135;
 }
 
 body {
@@ -79,6 +79,14 @@ table, th, td {
     outline: 1px solid var(--primary-btn-color);
     margin: 8px;
     border-radius: 50%;
+}
+.btn:hover {
+    color: var(--secondary-btn-color);
+    outline: 1px solid var(--secondary-btn-color);
+}
+.btn:active {
+    color: var(--secondary-btn-color);
+    outline: 1px solid var(--secondary-btn-color);
 }
 
 .hero-content > h1 {
