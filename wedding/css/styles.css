@@ -55,6 +55,9 @@ button[type=submit], input[type=text], input[type=email], input[type=number], se
     -moz-box-sizing: border-box;
     box-shadow: 1px 1px 2px var(--tertiary-background);
 }
+input[type=email] {
+    color: var(--primary-text-color);
+}
 button[type=submit] {
     padding: 14px 20px;
     margin: 8px 0;
