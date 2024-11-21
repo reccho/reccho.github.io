@@ -38,14 +38,13 @@ table, th, td {
 }
 
 input[type=text], input[type=email], input[type=number], select {
-    width: 550px;
-    height: 40px;
+    width: 100%;
     padding: 12px 20px;
     margin: 4px 0;
     display: inline-block;
     border: 1px solid var(--secondary-background);
     border-radius: 4px;
-    box-sizing: border-box;
+    box-sizing: content-box;
     -moz-box-sizing: border-box;
     display:block;
     -webkit-appearance: textfield;
