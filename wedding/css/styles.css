@@ -37,13 +37,30 @@ table, th, td {
     -webkit-text-size-adjust: 100%
 }
 
-input[type=text], input[type=email], input[type=number], select {
-    box-sizing: border-box;
+form, input {
     width: 100%;
-    border: solid #5B6DCD 10px;
-    padding: 5px;
+    padding: 12px 20px;
+    margin: 4px 0;
+    color: var(--secondary-text-color);
 }
-
+button[type=submit], input[type=text], input[type=email], input[type=number], select {
+    display: block;
+    width: 100%;
+    border: 1px solid var(--secondary-background);
+    border-radius: 4px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-appearance: none;
+}
+button[type=submit] {
+    padding: 14px 20px;
+    margin: 8px 0;
+    color: var(--tertiary-text-color);
+    background-color: var(--primary-btn-color);
+}
+button[type=submit]:hover {
+    background-color: var(--secondary-btn-color);
+}
 /*input[type=text], input[type=email], input[type=number], select {*/
 /*    width: 100%;*/
 /*    padding: 12px 20px;*/
@@ -54,6 +71,7 @@ input[type=text], input[type=email], input[type=number], select {
 /*    box-sizing: border-box;*/
 /*    -moz-box-sizing: border-box;*/
 /*    display:block;*/
+/*    vertical-align: top;*/
 /*    -webkit-appearance: textfield;*/
 /*}*/
 /*button[type=submit] {*/
@@ -68,9 +86,7 @@ input[type=text], input[type=email], input[type=number], select {
 /*    -moz-box-sizing: border-box;*/
 /*    cursor: pointer;*/
 /*}*/
-button[type=submit]:hover {
-    background-color: var(--secondary-btn-color);
-}
+
 
 .btn {
     color: var(--primary-btn-color);
