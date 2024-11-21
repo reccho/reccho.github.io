@@ -43,8 +43,6 @@ form, input {
     padding: 12px 20px;
     margin: 4px 0;
     color: var(--secondary-text-color);
-    appearance: auto;
-    -webkit-appearance: auto;
 }
 button[type=submit], input[type=text], input[type=email], input[type=number], select {
     display: block;
