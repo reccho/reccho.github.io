@@ -44,8 +44,8 @@ input[type=text], input[type=email], input[type=number], select {
     display: inline-block;
     border: 1px solid var(--secondary-background);
     border-radius: 4px;
-    box-sizing: content-box;
-    -moz-box-sizing: content-box;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
     display:block;
     -webkit-appearance: textfield;
 }
@@ -57,12 +57,12 @@ button[type=submit] {
     margin: 8px 0;
     border: none;
     border-radius: 4px;
-    box-sizing: content-box;
-    -moz-box-sizing: content-box;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
     cursor: pointer;
 }
 button[type=submit]:hover {
-  background-color: var(--secondary-btn-color);
+    background-color: var(--secondary-btn-color);
 }
 
 .btn {
