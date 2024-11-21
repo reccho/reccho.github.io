@@ -10,11 +10,15 @@ var countdownInterval = setInterval(function() {
     const minutes = Math.floor((timeRemain % (1000 * 60 * 60)) / (1000 * 60));
     const seconds = Math.floor((timeRemain % (1000 * 60)) / 1000);
 
-    //document.getElementById("countdown").innerHTML = days + " days & " + hours + " hours";
-    document.getElementById("countdown").innerHTML = days + " days, " + hours + " hours, " + minutes + " minutes, " + seconds + " seconds";
+    const daysPrint = (days == 1) ? days + " day" : days + " days";
+    const hoursPrint = (hours == 1) ? hours + " hour" : hours + " hours";
+    const minutesPrint = (minutes == 1) ? minutes + " minute" : minutes + " minutes";
+    const secondsPrint = (seconds == 1) ? seconds + " second" : seconds + " seconds";
 
-    if (timeRemain < 0) {
-        clearInterval(x);
+    //document.getElementById("countdown").innerHTML = daysPrint + " & " + hoursPrint;
+    document.getElementById("countdown").innerHTML = daysPrint + ", " + hoursPrint + ", " + minutesPrint + ", " + secondsPrint;
+
+    if (timeRemain <= 0) {
         document.getElementById("countdown").innerHTML = "It Happened!";
     }
 }, 1000); // Counter text renews every 1000 ms
