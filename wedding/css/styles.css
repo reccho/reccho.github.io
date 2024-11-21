@@ -43,8 +43,8 @@ form, input {
     padding: 12px 20px;
     margin: 4px 0;
     color: var(--secondary-text-color);
-    appearance: none;
-    -webkit-appearance: none;
+    appearance: auto;
+    -webkit-appearance: auto;
 }
 button[type=submit], input[type=text], input[type=email], input[type=number], select {
     display: block;
@@ -61,36 +61,11 @@ button[type=submit] {
     color: var(--tertiary-text-color);
     background-color: var(--primary-btn-color);
     font-size: 18px;
+    cursor: pointer;
 }
 button[type=submit]:hover {
     background-color: var(--secondary-btn-color);
 }
-/*input[type=text], input[type=email], input[type=number], select {*/
-/*    width: 100%;*/
-/*    padding: 12px 20px;*/
-/*    margin: 4px 0;*/
-/*    display: inline-block;*/
-/*    border: 1px solid var(--secondary-background);*/
-/*    border-radius: 4px;*/
-/*    box-sizing: border-box;*/
-/*    -moz-box-sizing: border-box;*/
-/*    display:block;*/
-/*    vertical-align: top;*/
-/*    -webkit-appearance: textfield;*/
-/*}*/
-/*button[type=submit] {*/
-/*    width: 100%;*/
-/*    background-color: var(--primary-btn-color);*/
-/*    color: var(--tertiary-text-color);*/
-/*    padding: 14px 20px;*/
-/*    margin: 8px 0;*/
-/*    border: none;*/
-/*    border-radius: 4px;*/
-/*    box-sizing: border-box;*/
-/*    -moz-box-sizing: border-box;*/
-/*    cursor: pointer;*/
-/*}*/
-
 
 .btn {
     color: var(--primary-btn-color);
