@@ -42,7 +42,7 @@
         </div>
         <div class="row">
           <nav>
-            <div class="col-md-12 text-center"><a href="#rsvp" class="btn btn-outline-success rsvp-btn">RSVP</a></div>
+            <div class="col-md-12 text-center"><a href="#rsvp" class="btn">RSVP</a></div>
           </nav>
         </div>
         <div class="row">
@@ -115,10 +115,10 @@
             <h3>RSVP</h3>
             <form id='rsvp-form' method='POST' action=''>
               <div>
-                <input type="text" name='Name' placeholder='Name' required>
-                <input type='email' name='Email' placeholder='Email'>
-                <input type='number' name='Party' placeholder='How many will you be?' min='0' max='11' required>
-                <button id='rsvp-submit' type='submit' data-dismiss='modal'>We'll be there!</button>
+                <input type="text" name='Name' placeholder='Name' class="input-common input-field" required>
+                <input type='email' name='Email' placeholder='Email' class="input-common input-field input-optional">
+                <input type='number' name='Party' placeholder='How many will you be?' min='0' max='11' class="input-common input-field" required>
+                <button id='rsvp-submit' type='submit' data-dismiss='modal' class="input-common button-submit">We'll be there!</button>
               </div>
             </form>
           </div>

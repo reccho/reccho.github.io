@@ -38,14 +38,14 @@ table, th, td {
     -webkit-text-size-adjust: 100%
 }
 
-form, input {
+.input-common {
     width: 100%;
     padding: 12px 20px;
     margin: 4px 0;
     line-height: normal;
     color: var(--secondary-text-color);
 }
-button[type=submit], input[type=text], input[type=email], input[type=number], select {
+.input-field {
     display: block;
     width: 100%;
     border: 1px solid var(--secondary-background);
@@ -54,18 +54,21 @@ button[type=submit], input[type=text], input[type=email], input[type=number], se
     -moz-box-sizing: border-box;
     box-shadow: 1px 1px 2px var(--tertiary-background);
 }
-input[type=email] {
+.input-optional {
     color: var(--primary-text-color);
 }
-button[type=submit] {
+.button-submit {
     padding: 14px 20px;
     margin: 8px 0;
+    border: 1px solid var(--secondary-background);
+    border-radius: 4px;
     color: var(--tertiary-text-color);
     background-color: var(--primary-btn-color);
     font-size: 18px;
     cursor: pointer;
+    transition: background-color 200ms;
 }
-button[type=submit]:hover {
+.button-submit:hover {
     background-color: var(--secondary-btn-color);
 }
 
@@ -73,6 +76,7 @@ button[type=submit]:hover {
     color: var(--primary-btn-color);
     outline: 1px solid var(--primary-btn-color);
     margin: 8px;
+    border-radius: 50%;
 }
 
 .hero-content > h1 {
