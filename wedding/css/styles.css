@@ -7,6 +7,7 @@
     --primary-text-color: #1c365399;
     --secondary-text-color: #252833;
     --tertiary-text-color: #FFFFFFFF;
+    --link-text-color: #337ab7;
     --primary-btn-color: #d4af37;
     --secondary-btn-color: #cba135;
 }
@@ -27,6 +28,14 @@ h3 {
     line-height: 29px;
 }
 
+a {
+    color: var(--link-text-color);
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
 table, th, td {
     width: 80%;
     table-layout: fixed;
@@ -35,7 +44,8 @@ table, th, td {
 /*    border: 1px solid;*/
     font-weight: 400;
     color: var(--primary-text-color);
-    -webkit-text-size-adjust: 100%
+    -webkit-text-size-adjust: 100%;
+    text-align: center;
 }
 
 .input-common {
@@ -90,7 +100,7 @@ table, th, td {
 }
 
 .hero-content > h1 {
-    padding-top: 5%;
+    padding-top: 2%;
     font-family: "Windsong", serif;
     font-weight: 100;
     font-size: 56px;
@@ -99,6 +109,13 @@ table, th, td {
 .hero-content > img {
     width: 55%;
     margin-bottom: 0%;
+}
+
+.section-padding {
+    padding: 10px 0
+}
+.section-border{
+    border-bottom: 1px solid #e6e9ea
 }
 
 #countdown {
