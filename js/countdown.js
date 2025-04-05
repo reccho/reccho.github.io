@@ -1,5 +1,4 @@
 document.addEventListener("DOMContentLoaded", function() {
-  //const timeEvent = new Date("Sep 4, 2025 13:00:00").getTime();
   const timeEvent = new Date(document.getElementById("countdown").dataset.date).getTime();
 
   var countdownInterval = setInterval(function() {
