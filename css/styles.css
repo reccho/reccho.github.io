@@ -120,6 +120,18 @@ table, th, td {
     text-align: center;
 }
 
+.nav {
+    display:inline-block;
+    height:45px;
+    width:100%;
+}
+
+.nav-right {
+    margin-right: 15%;
+    display:inline-block;
+    float:right;
+}
+
 .section-padding {
     padding: 10px 0
 }

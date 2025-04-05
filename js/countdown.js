@@ -1,6 +1,8 @@
-const timeEvent = new Date("Sep 4, 2025 13:00:00").getTime();
+document.addEventListener("DOMContentLoaded", function() {
+  //const timeEvent = new Date("Sep 4, 2025 13:00:00").getTime();
+  const timeEvent = new Date(document.getElementById("countdown").dataset.date).getTime();
 
-var countdownInterval = setInterval(function() {
+  var countdownInterval = setInterval(function() {
 
     const timeCurrent = new Date().getTime();
     const timeRemain = timeEvent - timeCurrent;
@@ -19,6 +21,7 @@ var countdownInterval = setInterval(function() {
     document.getElementById("countdown").innerHTML = daysPrint + ", " + hoursPrint + ", " + minutesPrint + ", " + secondsPrint;
 
     if (timeRemain <= 0) {
-        document.getElementById("countdown").innerHTML = "It Happened!";
+      document.getElementById("countdown").innerHTML = "It Happened!";
     }
-}, 1000); // Counter text renews every 1000 ms
+  }, 1000); // Counter text renews every 1000 ms
+});
