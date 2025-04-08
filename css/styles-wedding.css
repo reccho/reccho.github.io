@@ -152,7 +152,7 @@ table, th, td {
 
 .welcome-container {
     padding-top: 100px;
-    background: url('../img/favicon-wedding_logo_256.png') no-repeat fixed center;
+    /*background: url('../img/favicon-wedding_logo_256.png') no-repeat fixed center;*/
     height: 100vh;
     /*background-size: contain;*/
 }
