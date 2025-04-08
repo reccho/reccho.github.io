@@ -85,6 +85,16 @@ table, th, td {
     outline: 1px solid var(--secondary-btn-color);
 }
 
+.btn-landing {
+    color: var(--primary-btn-color);
+    outline: 1px solid var(--primary-btn-color);
+    margin: 8px;
+    border-radius: 50%;
+    height: 80px;
+    width: 200px;
+    font-size: 40px;
+}
+
 .btn-submit {
     padding: 14px 20px;
     margin: 2px 0;
@@ -138,6 +148,13 @@ table, th, td {
 }
 .section-border{
     border-bottom: 1px solid #e6e9ea
+}
+
+.welcome-container {
+    padding-top: 100px;
+    background: url('../img/favicon-wedding_logo_256.png') no-repeat fixed center;
+    height: 100vh;
+    /*background-size: contain;*/
 }
 
 #countdown {
