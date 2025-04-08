@@ -54,6 +54,7 @@ table, th, td {
     margin: 4px 0;
     line-height: normal;
     color: var(--secondary-text-color);
+    background-color: var(--tertiary-text-color);
 }
 .input-field {
     display: block;
