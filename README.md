@@ -1,1 +1,1 @@
-Domain kateaevan.com hosted on namecheap.com
+Domain [kateaevan.com](kateaevan.com) hosted on [Namecheap](namecheap.com)
