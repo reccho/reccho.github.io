@@ -11,10 +11,10 @@ document.addEventListener("DOMContentLoaded", function() {
     const minutes = Math.floor((timeRemain % (1000 * 60 * 60)) / (1000 * 60));
     const seconds = Math.floor((timeRemain % (1000 * 60)) / 1000);
 
-    const daysPrint = (days == 1) ? days + " day" : days + " days";
-    const hoursPrint = (hours == 1) ? hours + " hour" : hours + " hours";
-    const minutesPrint = (minutes == 1) ? minutes + " minute" : minutes + " minutes";
-    const secondsPrint = (seconds == 1) ? seconds + " second" : seconds + " seconds";
+    const daysPrint = (days === 1) ? days + " day" : days + " days";
+    const hoursPrint = (hours === 1) ? hours + " hour" : hours + " hours";
+    const minutesPrint = (minutes === 1) ? minutes + " minute" : minutes + " minutes";
+    const secondsPrint = (seconds === 1) ? seconds + " second" : seconds + " seconds";
 
     //document.getElementById("countdown").innerHTML = daysPrint + " & " + hoursPrint;
     document.getElementById("countdown").innerHTML = daysPrint + ", " + hoursPrint + ", " + minutesPrint + ", " + secondsPrint;
