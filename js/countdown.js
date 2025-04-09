@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
   const timeEvent = new Date(document.getElementById("countdown").dataset.date).getTime();
 
-  var countdownInterval = setInterval(function() {
+  let countdownInterval = setInterval(function() {
 
     const timeCurrent = new Date().getTime();
     const timeRemain = timeEvent - timeCurrent;
