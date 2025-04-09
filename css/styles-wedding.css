@@ -110,14 +110,15 @@ table, th, td {
     cursor: pointer;
 }
 .btn-submit:hover {
-    color: var(--tertiary-text-color);
-    background-color: var(--secondary-btn-color);
+    /*color: var(--tertiary-text-color);*/
+    /*background-color: var(--secondary-btn-color);*/
+    background: -webkit-gradient(linear, left top, left bottom, from(#a95), to(#fea));
 }
 .btn-submit:active {
     color: var(--tertiary-text-color);
 }
 
-.metallic-button {
+.btn-metallic {
     background: -webkit-gradient(linear, left top, left bottom, from(#a95), to(#fea));
 }
 
@@ -134,9 +135,11 @@ table, th, td {
     margin-bottom: 0%;
 }
 
+.modal {
+    text-align: center;
+}
 .modal-title {
     width: 100%;
-    text-align: center;
 }
 
 .nav {
@@ -162,6 +165,14 @@ table, th, td {
     padding-top: 100px;
     height: 100vh;
     /*background-size: contain;*/
+}
+
+.flex-container {
+    /*display: flex; justify-content: space-between; padding-horizontal: 8px; gap: 8px*/
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-evenly;
+    align-items: center; /* center baseline */
 }
 
 #countdown {

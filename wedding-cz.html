@@ -109,45 +109,29 @@
       </div>
     </section>
 
-    <section id='faq' class='section-padding'>
-      <div class='container'>
-        <div class='col-12 col-sm-10 mx-auto text-center'>
-          <h3>FAQ</h3>
-          <div class='row text-center'>
-            <div class='col-4 text-center float-end'>
-              <a class='btn btn-faq btn-dc' data-bs-toggle='modal' data-bs-target='#modal-faq-dc'>Dress Code?</a>
-            </div>
-            <div class='col-4 text-center'>
-              <a class='btn btn-faq btn-dc bt' data-bs-toggle='modal' data-bs-target='#modal-faq-gifts'>Dary?</a>
-            </div>
-            <div class='col-4 text-center'>
-              <a class='btn btn-faq btn-dc' data-bs-toggle='modal' data-bs-target='#modal-faq-other'>Ubytování?</a>
-            </div>
-            </div>
-          </div>
-        </div>
+    <section id="faq" class="section-padding">
+      <div class="flex-container">
+        <a class='btn btn-faq' data-bs-toggle='modal' data-bs-target='#modal-faq-dc'>Dress Code?</a>
+        <a class='btn btn-faq' data-bs-toggle='modal' data-bs-target='#modal-faq-gifts'>Dary?</a>
+        <a class='btn btn-faq' data-bs-toggle='modal' data-bs-target='#modal-faq-other'>Ubytování?</a>
+      </div>
 
-      <!-- Dress Code -->
       <div class='modal' id='modal-faq-dc'>
-        <div class='modal-dialog modal-dialog-centered'>
           <div class='modal-content'>
             <div class='modal-header'>
               <h4 class='modal-title'>Dress Code</h4>
-              <button type='button' class='btn-close' data-bs-dismiss='modal'></button>
+              <button type='button' data-bs-dismiss='modal'></button>
             </div>
-            <div class='modal-body text-center'>
+            <div class='modal-body'>
               <p>'Semi-Formal Attire. Please dress up for a fun evening with us! Please wear a dark suit with a dress shirt and tie (vest optional), or a cocktail dress, dressy top and pants, or jumpsuit.'</p>
               <p>'Dressy Casual. We hope you dress comfortably to celebrate with us! Please wear a dress shirt or polo, dress pants, or dress shorts; or, please select a sundress or dressy separates with comfortable shoes ready for dancing!'</p>
             </div>
-            <div class='text-center'>
+            <div class='modal-footer'>
               <a class='link-weather' href='https://www.chmi.cz/#'>Weather Forecast</a>
-              <p></p>
             </div>
           </div>
-        </div>
       </div>
 
-      <!-- Gifts -->
       <div class='modal' id='modal-faq-gifts'>
         <div class='modal-dialog modal-dialog-centered'>
           <div class='modal-content'>
@@ -155,14 +139,13 @@
               <h4 class='modal-title'>Gifts</h4>
               <button type='button' class='btn-close' data-bs-dismiss='modal'></button>
             </div>
-            <div class='modal-body text-center'>
+            <div class='modal-body'>
               <p>‘Having you with us on our special day is the best gift we could ask for. Though should you wish to help us keep the celebrations going, a cash gift towards our honeymoon fund would be greatly appreciated.’</p>
             </div>
           </div>
         </div>
       </div>
 
-      <!-- ... -->
       <div class='modal' id='modal-faq-other'>
         <div class='modal-dialog modal-dialog-centered'>
           <div class='modal-content'>
@@ -170,7 +153,7 @@
               <h4 class='modal-title'>...</h4>
               <button type='button' class='btn-close' data-bs-dismiss='modal'></button>
             </div>
-            <div class='modal-body text-center'>
+            <div class='modal-body'>
               <p>...</p>
             </div>
           </div>
@@ -194,7 +177,7 @@
                   <option value='' class='input-common input-field'>Non-vegetarian</option>
                   <option value='Veggie' class='input-common input-field'>Vegetarian</option>
                 </select>
-                <button id='rsvp-submit' type='submit' data-dismiss='modal' class='input-common btn btn-submit metallic-button'>We'll be there!</button>
+                <button id='rsvp-submit' type='submit' data-dismiss='modal' class='input-common btn btn-submit btn-metallic'>We'll be there!</button>
               </div>
             </form>
           </div>
