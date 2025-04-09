@@ -75,6 +75,7 @@ table, th, td {
     margin: 8px;
     /*border-radius: 50%;*/
     border-radius: 1000px;
+    width: fit-content;
 }
 .btn:hover {
     color: var(--secondary-btn-color);
