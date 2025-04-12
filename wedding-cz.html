@@ -7,200 +7,137 @@
     <meta name='description' content='We would like to invite you to our big day.'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0' />
     <meta name='theme-color' content='#ffffff'>
-    <link rel='apple-touch-icon' sizes='180x180' href='./img/favicon-wedding-apple-touch-icon.png'>
-    <link rel='icon' type='image/png' sizes='32x32' href='./img/favicon-wedding-32x32.png'>
-    <link rel='icon' type='image/png' sizes='16x16' href='./img/favicon-wedding-16x16.png'>
+    <link rel='icon' type='image/png' href='./favicon-96x96.png' sizes='96x96' />
+    <link rel='icon' type='image/svg+xml' href='./favicon.svg' />
+    <link rel='shortcut icon' href='./favicon.ico' />
+    <link rel='apple-touch-icon' sizes='180x180' href='./apple-touch-icon.png' />
+    <meta name='apple-mobile-web-app-title' content='Kate&Evan' />
+    <link rel='manifest' href='./site.webmanifest' />
     <link rel='preconnect' href='https://fonts.googleapis.com'>
     <link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
     <link rel='stylesheet' href='https://fonts.googleapis.com/css2?family=Whisper&family=WindSong:wght@400;500&display=swap'>
     <link rel='stylesheet' href='https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Whisper&family=WindSong:wght@400;500&display=swap'>
     <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css' integrity='sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH' crossorigin='anonymous'>
+    <script src='https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js' integrity='sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz' crossorigin='anonymous'></script>
     <link rel='stylesheet' href='./css/normalize.min.css'>
     <link rel='stylesheet' href='./css/styles-wedding.css'>
-    <script src='https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js' integrity='sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz' crossorigin='anonymous'></script>
     <script src='./js/countdown.js'></script>
     <script src='./js/rsvp.js'></script>
   </head>
   <body>
-    <nav class='nav'>
-      <div class='nav-right'>
-          <a href='./wedding-us.html'>US</a>
+    <div class='container'>
+      <nav  class='nav-right'>
+        <a href='./wedding-us.html'>US</a>
+      </nav>
+
+      <div id='hero' class='container container-section hero'>
+        <img src='./img/engagement.jpg' alt='The happy couple'>
+        <h1>Kate & Evan</h1>
       </div>
-    </nav>
 
-    <section class='hero'>
-      <div class='container'>
-        <div class='row'>
-          <div class ='col-12 mx-auto hero-content text-center'>
-            <img src='./img/engagement.jpg' alt='The happy couple'>
-            <h1>Kate & Evan</h1>
-          </div>
-        </div>
+      <div id='invitation' class='container container-section'>
+        <h3>We're getting married!</h3>
+        <p>Přijďte s námi oslavit začátek našeho manželství</p>
+        <p><b>čtvrtek 4. září 2025</b></p>
+        <button class='button-rsvp' onclick='window.location.href="#rsvp-submit";'>RSVP</button>
+        <p id='countdown' data-date='Sep 4, 2025 13:00:00'></p>
       </div>
-    </section>
 
-    <section id='invitation' class='section-padding'>
-      <div class='container text-center'>
-        <div class='row'>
-          <div class='col-12 col-sm-6 mx-auto text-center'>
-            <h3>We're getting married!</h3>
-            <p>Přijďte s námi oslavit začátek našeho manželství</p>
-            <p><b>čtvrtek 4. září 2025</b></p>
-          </div>
-        </div>
-        <div class='row'>
-          <nav>
-            <div class='col-12 mx-auto text-center'><a href='#rsvp-submit' class='btn btn-rsvp'>RSVP</a></div>
-          </nav>
-        </div>
-        <div class='row'>
-          <div class='col-12 mx-auto text-center'><p id='countdown' data-date='Sep 4, 2025 13:00:00'></p></div>
-        </div>
-      </div>
-    </section>
-
-    <section id='map' class='section-padding'>
-      <div class='container text-center'>
-        <div class='row'>
-          <div class='col-12 col-sm-6 mx-auto text-center'>
-            <h3>Where will it be?</h3>
-            <p><b>Statek u Kapli&#269;ky</b></p>
-            <p>Nov&#225; Ves pod Ple&#353;&#237; 24, 262 04 Nov&#225; Ves pod Ple&#353;&#237;</p>
-          </div>
-        </div>
-        <div class='row text-center'>
-          <div class='col-2'></div>
-          <div class='col-4'><a class='map-link' href='https://maps.app.goo.gl/p7LWDs9Ru4oiETEQ7'>Google Maps</a></div>
-          <div class='col-4'><a class='map-link' href='https://mapy.cz/s/hacobebapa'>Mapy.cz</a></div>
-          <div class='col-2'></div>
-        </div>
-      </div>
-    </section>
-
-    <section id='program' class='section-padding'>
-      <div class='container'>
-        <div class='row'>
-          <div class='col-8 mx-auto text-center'>
-            <h3>Program</h3>
-            <table>
-              <tr>
-                <td>13:00</td>
-                <td>Ceremony</td>
-              </tr>
-              <tr>
-                <td>15:00</td>
-                <td>Lunch</td>
-              </tr>
-              <tr>
-                <td>17:00</td>
-                <td>Dinner Buffet</td>
-              </tr>
-              <tr>
-                <td>19:00</td>
-                <td>After Party</td>
-              </tr>
-              <tr>
-                <td>3:00</td>
-                <td>Bar closes</td>
-              </tr>
-            </table>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section id='faq' class='section-padding'>
-      <div class='container'>
-        <div class='col-12 col-sm-10 mx-auto text-center'>
-          <h3>FAQ</h3>
-          <div class='row text-center'>
-            <div class='col-4 text-center float-end'>
-              <a class='btn btn-faq btn-dc' data-bs-toggle='modal' data-bs-target='#modal-faq-dc'>Dress Code</a>
-            </div>
-            <div class='col-4 text-center'>
-              <a class='btn btn-faq btn-dc bt' data-bs-toggle='modal' data-bs-target='#modal-faq-gifts'>Dary</a>
-            </div>
-            <div class='col-4 text-center'>
-              <a class='btn btn-faq btn-dc' data-bs-toggle='modal' data-bs-target='#modal-faq-other'>Ubytování</a>
-            </div>
-            </div>
-          </div>
-        </div>
-
-      <!-- Dress Code -->
-      <div class='modal' id='modal-faq-dc'>
-        <div class='modal-dialog modal-dialog-centered'>
-          <div class='modal-content'>
-            <div class='modal-header'>
-              <h4 class='modal-title'>Dress Code</h4>
-              <button type='button' class='btn-close' data-bs-dismiss='modal'></button>
-            </div>
-            <div class='modal-body text-center'>
-              <p>'Semi-Formal Attire. Please dress up for a fun evening with us! Please wear a dark suit with a dress shirt and tie (vest optional), or a cocktail dress, dressy top and pants, or jumpsuit.'</p>
-              <p>'Dressy Casual. We hope you dress comfortably to celebrate with us! Please wear a dress shirt or polo, dress pants, or dress shorts; or, please select a sundress or dressy separates with comfortable shoes ready for dancing!'</p>
-            </div>
-            <div class='text-center'>
-              <a class='link-weather' href='https://www.chmi.cz/#'>Weather Forecast</a>
-              <p></p>
-            </div>
-          </div>
+      <div id='map' class='container container-section'>
+        <h3>Where will it be?</h3>
+        <p><b>Statek u Kapli&#269;ky</b></p>
+        <p>Nov&#225; Ves pod Ple&#353;&#237; 24, 262 04 Nov&#225; Ves pod Ple&#353;&#237;</p>
+        <div class='container container-row'>
+          <a href='https://maps.app.goo.gl/p7LWDs9Ru4oiETEQ7'>Google Maps</a>
+          <a href='https://mapy.cz/s/hacobebapa'>Mapy.cz</a>
         </div>
       </div>
 
-      <!-- Gifts -->
-      <div class='modal' id='modal-faq-gifts'>
-        <div class='modal-dialog modal-dialog-centered'>
-          <div class='modal-content'>
-            <div class='modal-header'>
-              <h4 class='modal-title'>Gifts</h4>
-              <button type='button' class='btn-close' data-bs-dismiss='modal'></button>
-            </div>
-            <div class='modal-body text-center'>
-              <p>‘Having you with us on our special day is the best gift we could ask for. Though should you wish to help us keep the celebrations going, a cash gift towards our honeymoon fund would be greatly appreciated.’</p>
-            </div>
-          </div>
+      <div id='program' class='container container-section'>
+        <h3>Program</h3>
+        <div class='table'>
+          <div class='table-cell'>13:00</div>
+          <div class='table-cell'>Ceremony</div>
+          <div class='table-cell'>15:00</div>
+          <div class='table-cell'>Lunch</div>
+          <div class='table-cell'>17:00</div>
+          <div class='table-cell'>Dinner Buffet</div>
+          <div class='table-cell'>19:00</div>
+          <div class='table-cell'>After Party</div>
+          <div class='table-cell'>3:00</div>
+          <div class='table-cell'>Bar Closes</div>
         </div>
       </div>
 
-      <!-- ... -->
-      <div class='modal' id='modal-faq-other'>
-        <div class='modal-dialog modal-dialog-centered'>
-          <div class='modal-content'>
-            <div class='modal-header'>
-              <h4 class='modal-title'>...</h4>
-              <button type='button' class='btn-close' data-bs-dismiss='modal'></button>
-            </div>
-            <div class='modal-body text-center'>
-              <p>...</p>
-            </div>
-          </div>
+      <div id='faq' class='container container-section'>
+        <h3>FAQ</h3>
+        <div class='container container-row'>
+          <button id='faq-button-dress' data-bs-toggle='modal' data-bs-target='#faq-modal-dress' class='button-faq button-open'>Dress Code</button>
+          <button id='faq-button-gifts' data-bs-toggle='modal' data-bs-target='#faq-modal-gifts' class='button-faq button-open'>Dary</button>
+          <button id='faq-button-other' data-bs-toggle='modal' data-bs-target='#faq-modal-other' class='button-faq button-open'>Ubytování</button>
         </div>
-      </div>
-    </section>
 
-    <section id='rsvp' class='section-padding'>
-      <div class='container'>
-        <div class='row'>
-          <div class='col-12 col-sm-6 mx-auto text-center'>
-            <h3>RSVP</h3>
-            <form id='rsvp-form' method='POST' action='' data-macro='https://script.google.com/macros/s/AKfycby7DAQIz4U1hb4CzUIxyCmFQV0_p5fcpw5VFraDbOLn9kiMZaXeNza1xCFpCnbZVZduXA/exec'>
-              <div>
-                <label for='rsvp-name' hidden>Name</label>
-                <input type='text' id='rsvp-name' name='Name' placeholder='Name' class='input-common input-field' required>
-                <label for='rsvp-email' hidden>Email</label>
-                <input type='email' id='rsvp-email' name='Email' placeholder='Email (optional)' class='input-common input-field input-optional'>
-                <label for='rsvp-veggie' hidden>Vegetarian?</label>
-                <select id='rsvp-veggie' name='Veggie' class='input-common input-field input-select'>
-                  <option value='' class='input-common input-field'>Non-vegetarian</option>
-                  <option value='Veggie' class='input-common input-field'>Vegetarian</option>
-                </select>
-                <button id='rsvp-submit' type='submit' data-dismiss='modal' class='input-common btn btn-submit metallic-button'>We'll be there!</button>
+        <div class='modal' id='faq-modal-dress'>
+          <div class='modal-dialog modal-dialog-centered'>
+            <div class='modal-content'>
+              <div class='modal-header'>
+                <h4 class='modal-title'>Dress Code</h4>
+                <button class='btn-close' data-bs-dismiss='modal'></button>
               </div>
-            </form>
+              <div class='modal-body text-center'>
+                <p>'Semi-Formal Attire. Please dress up for a fun evening with us! Please wear a dark suit with a dress shirt and tie (vest optional), or a cocktail dress, dressy top and pants, or jumpsuit.'</p>
+                <p>'Dressy Casual. We hope you dress comfortably to celebrate with us! Please wear a dress shirt or polo, dress pants, or dress shorts; or, please select a sundress or dressy separates with comfortable shoes ready for dancing!'</p>
+              </div>
+              <a href='https://www.chmi.cz/#'>Weather Forecast</a>
+            </div>
+          </div>
+        </div>
+
+        <div class='modal' id='faq-modal-gifts'>
+          <div class='modal-dialog modal-dialog-centered'>
+            <div class='modal-content'>
+              <div class='modal-header'>
+                <h4 class='modal-title'>Dary</h4>
+                <button class='btn-close' data-bs-dismiss='modal'></button>
+              </div>
+              <div class='modal-body text-center'>
+                <p>‘Having you with us on our special day is the best gift we could ask for. Though should you wish to help us keep the celebrations going, a cash gift towards our honeymoon fund would be greatly appreciated.’</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class='modal' id='faq-modal-other'>
+          <div class='modal-dialog modal-dialog-centered'>
+            <div class='modal-content'>
+              <div class='modal-header'>
+                <h4 class='modal-title'>Ubytování</h4>
+                <button class='btn-close' data-bs-dismiss='modal'></button>
+              </div>
+              <div class='modal-body text-center'>
+                <p>...</p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
-    </section>
 
+      <div id='rsvp' class='container container-section'>
+        <h3>RSVP</h3>
+        <form id='rsvp-form' class='container' method='POST' action='' data-macro='https://script.google.com/macros/s/AKfycby7DAQIz4U1hb4CzUIxyCmFQV0_p5fcpw5VFraDbOLn9kiMZaXeNza1xCFpCnbZVZduXA/exec'>
+          <label for='rsvp-name' hidden>Name</label>
+          <input type='text' id='rsvp-name' name='Name' placeholder='Name' class='rsvp-item' required>
+          <label for='rsvp-email' hidden>Email</label>
+          <input type='email' id='rsvp-email' name='Email' placeholder='Email (optional)' class='rsvp-item'>
+          <label for='rsvp-veggie' hidden>Vegetarian?</label>
+          <select id='rsvp-veggie' name='Veggie' class='rsvp-item' required>
+            <option value='' disabled>Would you like a vegetarian meal?</option>
+            <option value='' selected>Non-vegetarian</option>
+            <option value='Veggie'>Vegetarian</option>
+          </select>
+          <button id='rsvp-submit' type='submit' class='rsvp-item rsvp-submit button-metallic'>We'll be there!</button>
+        </form>
+      </div>
+    </div>
   </body>
 </html>
