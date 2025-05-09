@@ -21,16 +21,22 @@
     {
       "author": "Eugene V. Debs",
       "text": "The most heroic word in all languages is REVOLUTION.",
-      "translation": "",
+      "translation": null,
       "source": "'Revolution' in New York Worker 27.04.1907)"
     },
-    
     {
       "author": "Karel Čapek",
       "text": "Hallo, vy lidé, Chief Salamander vám jménem všech Mloků světa nabízí spolupráci. Budete s námi pracovat na odbourání vašeho světa. Děkujeme vám",
       "translation": "Hello you people, Chief Salamander, in the name of all newts everywhere, offers collaboration with you. You will collaborate with us in the demolition of your world. Thank you.",
       "source": "Válka s Mloky, 1936"
-    },{
+    },
+    {
+      "author": "Ernest Hemingway",
+      "text": "Anyone who loves freedom owes such a debt to the Red Army that it can never be repaid.",
+      "translation": null,
+      "source": "part of a statement for the 23.02.1942 issue of Pravda (p. 4)"
+    },
+    {
       "author": "...",
       "text": "A society grows great when old men plant trees whose shade they know they shall never sit in.",
       "translation": null,
