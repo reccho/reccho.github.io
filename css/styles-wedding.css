@@ -69,7 +69,7 @@ button:active:focus {
     width: 200px;
     font-size: 40px;
 }
-.button-faq { width: fit-content; }
+.button-faq { flex: 1 1 0; }
 .button-rsvp { width: 80px; }
 .button-metallic { background: -webkit-gradient(linear, left top, left bottom, from(#a95), to(#fea)); }
 .btn-close { outline: none; }
@@ -82,9 +82,11 @@ button:active:focus {
     padding: 3px 0;
 }
 .container-row {
+    justify-content: center;
+    /*align-items: center;*/
     flex-flow: row nowrap;
     margin-top: 10px;
-    gap: 40px;
+    gap: 10px;
 }
 .container-landing { padding-top: 100px; }
 .container-section { margin-top: 10px; }
