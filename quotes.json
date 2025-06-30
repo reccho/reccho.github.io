@@ -25,12 +25,6 @@
       "source": "'Revolution' in the New York Worker 27.04.1907"
     },
     {
-      "author": "",
-      "text": "Solo el pueblo salva al pueblo.",
-      "translation": "Only the people save the people.",
-      "source": ""
-    },
-    {
       "author": "Karel Čapek",
       "text": "Hallo, vy lidé, Chief Salamander vám jménem všech Mloků světa nabízí spolupráci. Budete s námi pracovat na odbourání vašeho světa. Děkujeme vám",
       "translation": "Hello you people, Chief Salamander, in the name of all newts everywhere, offers collaboration with you. You will collaborate with us in the demolition of your world. Thank you.",
@@ -83,6 +77,12 @@
       "text": "I have almost reached the regrettable conclusion that the Negro's great stumbling block in his stride toward freedom is not the White Citizen's Counciler or the Ku Klux Klanner, but the white moderate, who is more devoted to 'order' than to justice; who prefers a negative peace which is the absence of tension to a positive peace which is the presence of justice; who constantly says: 'I agree with you in the goal you seek, but I cannot agree with your methods of direct action'; who paternalistically believes he can set the timetable for another man's freedom; who lives by a mythical concept of time and who constantly advises the Negro to wait for a 'more convenient season.' Shallow understanding from people of good will is more frustrating than absolute misunderstanding from people of ill will. Lukewarm acceptance is much more bewildering than outright rejection.",
       "translation": null,
       "source": "excerpt from the Letter from Birmingham Jail, 16.04.1963"
+    },
+    {
+      "author": "Toni Morrison",
+      "text": "The function, the very serious function of racism is distraction. It keeps you from doing your work. It keeps you explaining, over and over again, your reason for being. Somebody says you have no language and you spend twenty years proving that you do. Somebody says your head isn’t shaped properly so you have scientists working on the fact that it is. Somebody says you have no art, so you dredge that up. Somebody says you have no kingdoms, so you dredge that up. None of this is necessary. There will always be one more thing.",
+      "translation": null,
+      "source": ""
     },
     {
       "author": "Smedley D. Butler",
@@ -148,7 +148,37 @@
       "author": "Bernie Sanders",
       "text": "Thank you, Coachella.",
       "translation": null,
-      "source": "13.4.2025"
+      "source": "after opening for Clairo, 13.4.2025"
+    },
+    {
+      "author": "",
+      "text": "Solo el pueblo salva al pueblo.",
+      "translation": "Only the people save the people.",
+      "source": ""
+    },
+    {
+      "author": "",
+      "text": "No pasarán",
+      "translation": "They shall not pass",
+      "source": ""
+    },
+    {
+      "author": "",
+      "text": "Abajo el trabajo",
+      "translation": "Down with the work",
+      "source": ""
+    },
+    {
+      "author": "",
+      "text": "AL INFIERNO CON LA GUERRA",
+      "translation": "TO HELL WITH WAR",
+      "source": ""
+    },
+    {
+      "author": "",
+      "text": "Tiocfaidh ár lá",
+      "translation": "Our day will come",
+      "source": ""
     },
     {
       "author": "",
