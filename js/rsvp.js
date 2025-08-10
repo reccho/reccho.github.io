@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
   const form = document.querySelector("#rsvp-form")
-  const submitButton = document.querySelector("#rsvp-submit")
+  const submitButton = document.querySelector("#submit-rsvp")
   const macroURL = form.dataset.macro;
   console.log(macroURL);
 
