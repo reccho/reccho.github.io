@@ -8,7 +8,7 @@
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0' />
     <meta name='theme-color' content='#ffffff'>
     <link rel='icon' type='image/png' href='./favicon-96x96.png' sizes='96x96' />
-    <link rel='icon' type='image/svg+xml' href='./favicon.svg' />
+    <link rel='icon' type='image/svg+xml' href='favicon-old.svg' />
     <link rel='shortcut icon' href='./favicon.ico' />
     <link rel='apple-touch-icon' sizes='180x180' href='./apple-touch-icon.png' />
     <meta name='apple-mobile-web-app-title' content='Kate&Evan' />
@@ -38,7 +38,7 @@
       <div id='invitation' class='container container-section'>
         <h3>We're getting married (again, sorta)!</h3>
         <p>Come celebrate with us!</p>
-        <button class='button-rsvp' onclick='window.location.href="#rsvp-submit";'>RSVP</button>
+        <button class='button-rsvp' onclick='window.location.href="#submit-rsvp";'>RSVP</button>
       </div>
 
       <div id='map' class='container container-section'>
@@ -55,13 +55,13 @@
       <div id='program' class='container container-section'>
         <h3>Program</h3>
         <div class='table'>
-          <div class='table-cell'>15:00</div>
+          <div class='table-cell'>3:00</div>
           <div class='table-cell'>Drinks</div>
-          <div class='table-cell'>16:00</div>
+          <div class='table-cell'>5:00</div>
           <div class='table-cell'>Ceremony</div>
-          <div class='table-cell'>17:30</div>
+          <div class='table-cell'>6:30</div>
           <div class='table-cell'>Dinner</div>
-          <div class='table-cell'>19:00</div>
+          <div class='table-cell'>7:00</div>
           <div class='table-cell'>After Party</div>
         </div>
       </div>
@@ -119,6 +119,14 @@
         </div>
       </div>
 
+      <div>
+        <form id='form-music' class='container' method='POST' action='' data-macro=''>
+          <label for='input-music'>If you know any good songs recommend a few :)</label>
+          <input type='text' id='input-music' name='Name' placeholder='Song(s)' class='rsvp-item' required>
+          <button id='submit-music' type='submit' class='submit-music submit-rsvp button-metallic'>Recommend</button>
+        </form>
+      </div>
+
       <div id='rsvp' class='container container-section'>
         <h3>RSVP</h3>
         <form id='rsvp-form' class='container' method='POST' action='' data-macro='https://script.google.com/macros/s/AKfycbzTEL4XY6bhSPE5nII-k3VFculfhP_bQNLwKeiLypc7s3AgNq_WGQHfK4EQSsKuZ7GK-A/exec'>
@@ -128,8 +136,12 @@
           <input type='email' id='rsvp-email' name='Email' placeholder='Email (optional)' class='rsvp-item'>
           <label for='rsvp-party' hidden>Party</label>
           <input type='number' id='rsvp-party' name='Party' placeholder='How many will you be?' min='0' max='11' class='rsvp-item' required>
-          <button id='rsvp-submit' type='submit' class='rsvp-item rsvp-submit button-metallic'>We'll be there!</button>
+          <button id='submit-rsvp' type='submit' class='rsvp-item submit-rsvp button-metallic'>We'll be there!</button>
         </form>
+      </div>
+
+      <div id='watermark' class='container container-section hero'>
+        <img src='./android-chrome-512x512.png' alt='watermark'>
       </div>
     </div>
   </body>

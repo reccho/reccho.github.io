@@ -119,7 +119,7 @@ button:active:focus {
     -moz-box-sizing: border-box;
     box-shadow: 1px 1px 2px var(--tertiary-background);
 }
-.rsvp-submit {
+.submit-rsvp {
     width: 50%;
     color: var(--tertiary-text-color);
     background-color: var(--primary-btn-color);
