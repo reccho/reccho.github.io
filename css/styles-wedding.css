@@ -70,6 +70,7 @@ button:active:focus {
     font-size: 40px;
 }
 .button-faq { flex: 1 1 0; }
+#faq-button-beds { flex: 0.5 1 0; }
 .button-rsvp { width: 80px; }
 .button-metallic { background: -webkit-gradient(linear, left top, left bottom, from(#a95), to(#fea)); }
 .btn-close { outline: none; }
@@ -95,8 +96,10 @@ button:active:focus {
     font-family: "Windsong", serif;
     font-weight: 100;
     font-size: 56px;
+    margin: 30px 0 0 0;
 }
 .hero > img { width: 55%; }
+#watermark { margin-top: 0; }
 
 .nav-right {
     margin-left: auto;
@@ -127,13 +130,17 @@ button:active:focus {
 
 .table {
     display: grid;
-    grid-template-columns: 100px 100px;
-    gap: 1px 0;
-    padding-top: 2px;
+    grid-template-columns: 125px 150px;
+    gap: 5px 0;
+    padding-top: 8px;
     align-items: center;
     justify-content: center;
 }
-.table-cell { text-align: center; }
+.table-cell-time {
+    text-align: end;
+    margin-right: 50px
+}
+.table-cell-text { text-align: start; }
 
 /* Bootstrap modals for now */
 .modal { text-align: center; }

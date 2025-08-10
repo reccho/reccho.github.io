@@ -52,21 +52,26 @@
         </div>
       </div>
 
-      <div id='program' class='container container-section'>
+      <div id='program' class='container container-section program'>
         <h3>Program</h3>
         <div class='table'>
-          <div class='table-cell'>13:00</div>
-          <div class='table-cell'>Obřad</div>
-<!--          <div class='table-cell'>15:00</div>-->
-<!--          <div class='table-cell'>Oběd</div>-->
-<!--          <div class='table-cell'>17:00</div>-->
-<!--          <div class='table-cell'>Raut</div>-->
-<!--          <div class='table-cell'>19:00</div>-->
-<!--          <div class='table-cell'>Party</div>-->
-<!--          <div class='table-cell'>3:00</div>-->
-<!--          <div class='table-cell'>Konec</div>-->
+          <div class='table-cell table-cell-time'>12:00</div>
+          <div class='table-cell table-cell-text'>Příjezd hostů, Welcome drink(s)</div>
+          <div class='table-cell table-cell-time'>13:00</div>
+          <div class='table-cell table-cell-text'>Obřad</div>
+          <div class='table-cell table-cell-time'>13:45</div>
+          <div class='table-cell table-cell-text'>Společné focení</div>
+          <div class='table-cell table-cell-time'>14:30</div>
+          <div class='table-cell table-cell-text'>Svatební hostina</div>
+          <div class='table-cell table-cell-time'>17:30</div>
+          <div class='table-cell table-cell-text'>První tanec</div>
+          <div class='table-cell table-cell-time'>18:00</div>
+          <div class='table-cell table-cell-text'>Večerní raut</div>
+          <div class='table-cell table-cell-time'>Celý den až do 3:00</div>
+          <div class='table-cell table-cell-text'>Párty, hry, zábava</div>
         </div>
-        <p>Check back soon for more</p>
+        <p><i>All times are approximate.</i></p>
+        <p><i>It's a wedding, not a Swiss watch :)</i></p>
       </div>
 
       <div id='faq' class='container container-section'>
@@ -74,7 +79,10 @@
         <div class='container container-row'>
           <button id='faq-button-dress' data-bs-toggle='modal' data-bs-target='#faq-modal-dress' class='button-faq button-open'>Dress Code</button>
           <button id='faq-button-gifts' data-bs-toggle='modal' data-bs-target='#faq-modal-gifts' class='button-faq button-open'>Dary</button>
-          <button id='faq-button-other' data-bs-toggle='modal' data-bs-target='#faq-modal-other' class='button-faq button-open' hidden=true>Ubytování</button>
+          <button id='faq-button-other' data-bs-toggle='modal' data-bs-target='#faq-modal-other' class='button-faq button-open'>Parkování</button>
+        </div>
+        <div class='container container-row'>
+          <button id='faq-button-beds' data-bs-toggle='modal' data-bs-target='#faq-modal-beds' class='button-faq button-open'>Ubytování & Doprava</button>
         </div>
 
         <div class='modal' id='faq-modal-dress'>
@@ -111,11 +119,25 @@
           <div class='modal-dialog modal-dialog-centered'>
             <div class='modal-content'>
               <div class='modal-header'>
-                <h4 class='modal-title'>Ubytování</h4>
+                <h4 class='modal-title'>Parkování</h4>
                 <button class='btn-close' data-bs-dismiss='modal'></button>
               </div>
               <div class='modal-body text-center'>
-                <p>...</p>
+                <p>Místa na parkování je dost uvnitř areálu, v den svatby vás případně někdo nasměruje :)</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class='modal' id='faq-modal-beds'>
+          <div class='modal-dialog modal-dialog-centered'>
+            <div class='modal-content'>
+              <div class='modal-header'>
+                <h4 class='modal-title'>Ubytování & Doprava</h4>
+                <button class='btn-close' data-bs-dismiss='modal'></button>
+              </div>
+              <div class='modal-body text-center'>
+                <p>Počet lůžek je omezený, bez problému ale můžete přespat ve stanu nebo obytném autě, snídaně je na nás. Pro více informací o ubytování a dopravě nás kontaktujte, nějak se domluvíme.</p>
               </div>
             </div>
           </div>
@@ -137,6 +159,10 @@
           </select>
           <button id='rsvp-submit' type='submit' class='rsvp-item rsvp-submit button-metallic'>Těšíme se na to!</button>
         </form>
+      </div>
+
+      <div id='watermark' class='container container-section hero'>
+        <img src='./img/favicon-wedding-logo-256.png' alt='watermark'>
       </div>
     </div>
   </body>
