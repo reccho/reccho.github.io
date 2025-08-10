@@ -1,0 +1,23 @@
+document.addEventListener("DOMContentLoaded", function() {
+    const form = document.querySelector("#form-music")
+    const submitButton = document.querySelector("#submit-music")
+    const macroURL = form.dataset.macro;
+    console.log(macroURL);
+
+    form.addEventListener('submit', e => {
+        submitButton.disabled = true
+        e.preventDefault()
+        let requestBody = new FormData(form)
+
+        fetch(macroURL, { method: 'POST', body: requestBody})
+            .then(response => {
+                alert('Thank you!', response)
+                submitButton.disabled = false;
+                form.reset();
+            })
+            .catch(error => {
+                alert('Error...', error.message)
+                submitButton.disabled = false;
+            })
+    })
+});
