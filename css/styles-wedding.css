@@ -119,6 +119,7 @@ button:active:focus {
     -moz-box-sizing: border-box;
     box-shadow: 1px 1px 2px var(--tertiary-background);
 }
+.music-item { border-radius: 32px; }
 .submit-rsvp {
     width: 50%;
     color: var(--tertiary-text-color);
