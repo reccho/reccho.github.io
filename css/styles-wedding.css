@@ -69,7 +69,10 @@ button:active:focus {
     width: 200px;
     font-size: 40px;
 }
-.button-faq { flex: 1 1 0; }
+.button-faq, button:focus:not(:focus-visible) {
+    flex: 1 1 0;
+    outline: 1px solid var(--primary-btn-color);
+}
 #faq-button-beds { flex: 0.5 1 0; }
 .button-rsvp { width: 80px; }
 .button-metallic { background: -webkit-gradient(linear, left top, left bottom, from(#a95), to(#fea)); }
