@@ -68,6 +68,7 @@ button:active:focus {
     height: 80px;
     width: 200px;
     font-size: 40px;
+    padding-block: 10px 20px;
 }
 .button-faq, button:focus:not(:focus-visible) {
     flex: 1 1 0;
@@ -163,4 +164,5 @@ button:active:focus {
 @media (min-width: 600px) {
     .hero > img { width: 40%; }
     .container { width: 80%; }
+
 }
