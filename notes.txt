@@ -6,3 +6,9 @@ TO DO...
 
     https://stackoverflow.com/questions/14763010/new-update-favicon-per-page
     https://www.w3schools.com/html/html_favicon.asp
+
+
+favicon
+- pixel asteroid
+- crow
+- frog w/ wizard hat
