@@ -74,7 +74,7 @@
     },
     {
       "author": "Jim Croce",
-      "text": "Because the sun don't know no difference / Between a rich man and a bum / And the only life I know is movin' round the sky",
+      "text": "Because the sun don't know no difference\nBetween a rich man and a bum\nAnd the only life I know is movin' round the sky",
       "translation": null,
       "source": "Sun Come Up - Facets, 1966"
     },
@@ -131,6 +131,12 @@
       "text": "The function, the very serious function of racism is distraction. It keeps you from doing your work. It keeps you explaining, over and over again, your reason for being. Somebody says you have no language and you spend twenty years proving that you do. Somebody says your head isn’t shaped properly so you have scientists working on the fact that it is. Somebody says you have no art, so you dredge that up. Somebody says you have no kingdoms, so you dredge that up. None of this is necessary. There will always be one more thing.",
       "translation": null,
       "source": ""
+    },
+    {
+      "author": "Zohran Mamdani",
+      "text": "We may not always succeed, but never will we be accused of lacking the courage to try.",
+      "translation": null,
+      "source": "from his inaugural speech as mayor of NY, 01.01.2026"
     },
     {
       "author": "Zohran Mamdani",
@@ -217,7 +223,7 @@
       "source": "in an interview with Lia Kim of junkee, SXSW Sydney 2025"
     },
     {
-      "author": "Stephen Jay Gould\n",
+      "author": "Stephen Jay Gould",
       "text": "I am, somehow, less interested in the weight and convolutions of Einstein’s brain than in the near certainty that people of equal talent have lived and died in cotton fields and sweatshops.",
       "translation": null,
       "source": "from 'Wide Hats and Narrow Minds' in New Scientist, 1979"
@@ -362,7 +368,7 @@
     },
     {
       "author": "Guillermo Del Toro",
-      "text": "AI, particularly generative AI — I am not interested, nor will I ever be interested. I’m 61, and I hope to be able to remain uninterested in using it at all until I croak . . . The other day, somebody wrote me an email, said, ‘What is your stance on AI?’ And my answer was very short. I said, ‘I’d rather die.'",
+      "text": "AI, particularly generative AI — I am not interested, nor will I ever be interested. I’m 61, and I hope to be able to remain uninterested in using it at all until I croak . . . The other day, somebody wrote me an email, said, \"What is your stance on AI?\" And my answer was very short. I said, \"I’d rather die.\"",
       "translation": null,
       "source": "from an interview with NPR, 2025"
     },
@@ -410,6 +416,12 @@
     },
     {
       "author": "Kurt Vonnegut Jr.",
+      "text": "Each person does a little something . . . and there you are.",
+      "translation": null,
+      "source": "Mother Night, 1961"
+    },
+    {
+      "author": "Kurt Vonnegut Jr.",
       "text": "The crowd, having been promised nothing, felt cheated, having received nothing.",
       "translation": null,
       "source": "Sirens of Titan, 1959"
@@ -422,7 +434,7 @@
     },
     {
       "author": "Kurt Vonnegut Jr.",
-      "text": "She says, 'Well, you’re not a poor man. Why don’t you go online and buy a hundred envelopes and put them in the closet?' And so I pretend not to hear her and go out to get an envelope; because I’m going to have a hell of a good time in the process of buying one envelope.\n\nWell, I meet a lot of people; and uh… see some great looking babes; and a fire engine goes by and I give them the 'thumbs up'. And ask a woman what kind of dog that is… And, I don’t know… The moral of the story is, we’re here on Earth to fart around.\n\nAnd, of course, the computers will do us out of that. And, what the computer people don’t realize – or they don’t care – is we’re dancing animals. You know; we love to move around. And we’re not supposed to dance at all anymore.",
+      "text": "She says, \"Well, you’re not a poor man. Why don’t you go online and buy a hundred envelopes and put them in the closet?\" And so I pretend not to hear her and go out to get an envelope; because I’m going to have a hell of a good time in the process of buying one envelope.\n\nWell, I meet a lot of people; and uh… see some great looking babes; and a fire engine goes by and I give them the 'thumbs up'. And ask a woman what kind of dog that is… And, I don’t know… The moral of the story is, we’re here on Earth to fart around.\n\nAnd, of course, the computers will do us out of that. And, what the computer people don’t realize – or they don’t care – is we’re dancing animals. You know; we love to move around. And we’re not supposed to dance at all anymore.",
       "translation": null,
       "source": "describing a story from 'A Man Without A Country' in an interview with David Brancaccio on PBS NOW, 2005"
     },
@@ -434,7 +446,7 @@
     },
     {
       "author": "Richard Hooker",
-      "text": "That night when Hawkeye went to work he encountered Frank.\n“Hey, Frank,” he said, “one of my kid brothers just got out of jail. I wrote him and told him to go out to Indiana and burn down your thirty-five-thousand-dollar house.”\nAgain, Frank ran to Colonel Blake who visited Hawkeye in the morning.\n“Pierce, have you flipped?” he demanded.\n“Whadda ya mean?” asked Hawkeye, who had forgotten all about it.",
+      "text": "That night when Hawkeye went to work he encountered Frank.\n\"Hey, Frank,\" he said, \"one of my kid brothers just got out of jail. I wrote him and told him to go out to Indiana and burn down your thirty-five-thousand-dollar house.\"\nAgain, Frank ran to Colonel Blake who visited Hawkeye in the morning.\n\"Pierce, have you flipped?\" he demanded.\n\"Whadda ya mean?\" asked Hawkeye, who had forgotten all about it.",
       "translation": null,
       "source": "M.A.S.H., 1968"
     },
@@ -458,7 +470,7 @@
     },
     {
       "author": "J.R.R. Tolkien",
-      "text": "'So comes snow after fire, and even dragons have their ending!' said Bilbo, and he turned his back on his adventure. The Tookish part was getting very tired, and the Baggins was daily getting stronger. 'I wish now only to be in my own arm-chair!' he said.",
+      "text": "\"So comes snow after fire, and even dragons have their ending!\" said Bilbo, and he turned his back on his adventure. The Tookish part was getting very tired, and the Baggins was daily getting stronger. \"I wish now only to be in my own arm-chair!\" he said.",
       "translation": null,
       "source": "The Hobbit, 1937"
     },
@@ -488,19 +500,19 @@
     },
     {
       "author": "Philip K. Dick",
-      "text": "'Chicken shit,' Mr. Tagomi said. 'I say that to that.'",
+      "text": "\"Chicken shit,\" Mr. Tagomi said. \"I say that to that.\"",
       "translation": null,
       "source": "The Man in the High Castle, 1962"
     },
     {
       "author": "T.S. Eliot",
-      "text": "We shall not cease from exploration / And the end of all our exploring / Will be to arrive where we started / And know the place for the first time.",
+      "text": "We shall not cease from exploration\nAnd the end of all our exploring\nWill be to arrive where we started\nAnd know the place for the first time.",
       "translation": null,
       "source": "excerpt from 'Little Gilding', Four Quartets 1943"
     },
     {
       "author": "Rudyard Kilping",
-      "text": "Don't—don't—don't—don't—look at what's in front of you. / (Boots—boots—boots—boots—movin' up an' down again); / Men—men—men—men—men go mad with watchin' em, / An' there's no discharge in the war!",
+      "text": "Don't—don't—don't—don't—look at what's in front of you.\n(Boots—boots—boots—boots—movin' up an' down again);\nMen—men—men—men—men go mad with watchin' em,\nAn' there's no discharge in the war!",
       "translation": null,
       "source": "excerpt from 'Boots', first published in 1903, performed by Taylor Holmes in 1915"
     },
@@ -512,8 +524,8 @@
     },
     {
       "author": "Rainer Maria Rilke",
-      "text": "Und wenn dich das Irdische vergaß, / zu der stillen Erde sag: Ich rinne. / Zu dem raschen Wasser sprich: Ich bin.",
-      "translation": "And if the earthly should forget you, / say to the silent loam: I flow. / To the rushing water speak: I am.",
+      "text": "Und wenn dich das Irdische vergaß,\nzu der stillen Erde sag: Ich rinne.\nZu dem raschen Wasser sprich: Ich bin.",
+      "translation": "And if the earthly should forget you,\nsay to the silent loam: I flow.\nTo the rushing water speak: I am.",
       "source": "excerpt from Sonnets to Orpheus II, 29"
     },
     {
@@ -524,8 +536,8 @@
     },
     {
       "author": "Dinos Christianopoulos",
-      "text": "καὶ τί δὲν κάνατε γιὰ νὰ μὲ θάψετε / ὅμως ξεχάσατε πὼς ἤμουν σπόρος",
-      "translation": "what didn’t you do to bury me / but you forgot that I was a seed",
+      "text": "καὶ τί δὲν κάνατε γιὰ νὰ μὲ θάψετε\nὅμως ξεχάσατε πὼς ἤμουν σπόρος",
+      "translation": "what didn’t you do to bury me\nbut you forgot that I was a seed",
       "source": "from The Body and the Wormwood, 1960s"
     },
 
@@ -657,7 +669,7 @@
     },
     {
       "author": "",
-      "text": "Republicans are red / Democrats are blue / Neither of them give a fuck about you.",
+      "text": "Republicans are red\nDemocrats are blue\nNeither of them give a fuck about you.",
       "translation": null,
       "source": ""
     },
