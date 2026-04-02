@@ -55,6 +55,12 @@
       "source": "from a letter to Maria Rosario Guevara, 1964"
     },
     {
+      "author": "Ernesto 'Che' Guevara",
+      "text": "Vale millones de veces más la vida de un solo ser humano, que todas las propiedades del hombre más rico de la tierra.",
+      "translation": "The life of a single human being is worth a million times more than all the property of the richest man on earth.",
+      "source": "spoken to the Cuban Militia, 19.08.1960"
+    },
+    {
       "author": "Eugene V. Debs",
       "text": "The most heroic word in all languages is REVOLUTION.",
       "translation": null,
@@ -155,6 +161,12 @@
       "text": "Simply put, feminism is a movement to end sexism, sexist exploitation, and oppression.",
       "translation": null,
       "source": "Feminism Is For Everybody, 2000"
+    },
+    {
+      "author": "Chairman Mao",
+      "text": "Women hold up half the sky.",
+      "translation": null,
+      "source": "attributed, 1968"
     },
     {
       "author": "Benito Antonio 'Bad Bunny' Martínez Ocasio",
@@ -487,10 +499,22 @@
       "source": "in answer to a question at the Marrakech Film Festival, 2025"
     },
     {
+      "author": "Louis Brandeis",
+      "text": "We must make our choice. We may have democracy, or we may have wealth concentrated in the hands of a few, but we can't have both.",
+      "translation": null,
+      "source": "quoted by Raymond Lonergan in 'Mr. Justice Brandeis, Great American' p. 42, 1941"
+    },
+    {
       "author": "Dwight D. Eisenhower",
       "text": "Every gun that is made, every warship launched, every rocket fired signifies, in the final sense, a theft from those who hunger and are not fed, those who are cold and are not clothed.",
       "translation": null,
       "source": "from his Chance for Peace speech, 1953"
+    },
+    {
+      "author": "George McGovern",
+      "text": "Wilson believed, and I believe, that the destiny of America is always safer in the hands of the people than in the conference rooms of any elite.",
+      "translation": null,
+      "source": "from his address accepting the presidential nomination at the DNC in Miami Beach, 14.07.1972"
     },
     {
       "author": "Matsuoka Shoza",
@@ -679,6 +703,12 @@
       "source": "excerpt from 'Boots', first published in 1903, performed by Taylor Holmes in 1915"
     },
     {
+      "author": "Marwan Makhoul",
+      "text": "In order for me to write poetry that isn’t political\nI must listen to the birds\nand in order to hear the birds\nthe warplanes must be silent.",
+      "translation": null,
+      "source": "'On Politics and Poetry'"
+    },
+    {
       "author": "Oliver Wendell Holmes",
       "text": "Alas for those that never sing,\nBut die with all their music in them!",
       "translation": null,
@@ -727,10 +757,22 @@
       "source": "Seven Nation Army, 2003"
     },
     {
-      "author": "Hozier",
+      "author": "Andrew John 'Hozier' Hozier-Byrne",
       "text": "When I was kissin' on my baby\nAnd she put her love down, soft and sweet\nIn the low lamplight, I was free\nHeaven and hell were words to me",
       "translation": null,
       "source": "Work Song, 2015"
+    },
+    {
+      "author": "Andrew John 'Hozier' Hozier-Byrne",
+      "text": "I don't think you can make art without there being a political read into it no . . . I think a child sits down to draw a picture of a house, that has political dimensions and political indications to it . . . I think it's just whether you choose to engage with those dimensions and look upon them and sit over them and scratch your head and scratch your chin we don't need to do that all the time, but I don't think you can make- I think all things are political or have a dimension that's political.",
+      "translation": null,
+      "source": "on The Late Late Show, 15.04.2023"
+    },
+    {
+      "author": "Andrew John 'Hozier' Hozier-Byrne",
+      "text": "What I can say about the whole chat GPT thing, I think, I do find our obsession with it very interesting. I think that's more interesting than the actual program itself to be honest . . . I think our obsession with it in the way that we view it as some sort of Miracle of either productivity or Miracle of money making or Miracle of getting us all out of either a job or I don't know, I think our obsession with it and what we see in it is a little bit more interesting than quite frankly the very drab and uninteresting things that it has to say, you know, and sometimes alarmingly bad things it has to say.",
+      "translation": null,
+      "source": "May 2023"
     },
     {
       "author": "Tom Waits",
@@ -815,6 +857,12 @@
       "text": "All Power to the People",
       "translation": null,
       "source": ""
+    },
+    {
+      "author": "",
+      "text": "they shall beat their swords into plowshares, and their spears into pruning hooks; nation shall not lift up sword against nation, neither shall they learn war any more.",
+      "translation": null,
+      "source": "excerpt from Isaiah 2:4"
     },
     {
       "author": "",
