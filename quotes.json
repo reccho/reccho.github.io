@@ -32,13 +32,19 @@
     },
     {
       "author": "Hasan 'Hasanabi' Piker",
-      "text": "Rule 1: Get Nukes.\nRule 2: DO NOT give up your nukes.\nRule 3: If you’re accused of having nukes, drop everything IMMEDIATELY and find some nukes.",
+      "text": "Rule 1: Get Nukes.\nRule 2: DO NOT give up your nukes.\nRule 3: If you're accused of having nukes, drop everything IMMEDIATELY and find some nukes.",
       "translation": null,
       "source": "Hasanabi Nuclear Doctrine: A Guide For Nation-building"
     },
     {
+      "author": "Hasan 'Hasanabi' Piker",
+      "text": "If you steal from the poor, you become rich; if you steal from the wealthy, you go to prison. So there’s only one direction where you can do unlimited theft and erode the social contract for the 99 percent. There’s an invisibility baked into the system that allows the wealthy to engage in this behavior . . . A similar invisibility exists in structural violence, as opposed to individual acts of violence, as well.",
+      "translation": null,
+      "source": "part of a conversation from the NYT Opinions, April 2026"
+    },
+    {
       "author": "Prof. Jonathan Foster",
-      "text": "If someone says it’s raining and another person says it’s dry, it’s not your job to quote them both. Your job is to look out the fucking window and find out which is true.",
+      "text": "If someone says it's raining and another person says it's dry, it's not your job to quote them both. Your job is to look out the fucking window and find out which is true.",
       "translation": null,
       "source": "on journalism, possibly originating from The Pied Piper of Texas Politics (1974)"
     },
@@ -65,6 +71,18 @@
       "text": "Vale millones de veces más la vida de un solo ser humano, que todas las propiedades del hombre más rico de la tierra.",
       "translation": "The life of a single human being is worth a million times more than all the property of the richest man on earth.",
       "source": "spoken to the Cuban Militia, 19.08.1960"
+    },
+    {
+      "author": "Berta Cáceres",
+      "text": "Vos ténes la bala... yo la palabra.\nLa bala muere al detonarse... la palabra vive al replicarse.",
+      "translation": "You have the bullet … I have the word. The bullet dies when it detonates, the word lives on to be repeated.",
+      "source": ""
+    },
+    {
+      "author": "Vladimir Ilyich Lenin",
+      "text": "Вражда к евреям держится прочно только там, где кабала помещиков и капиталистов создала беспросветную темноту рабочих и крестьян. Только совсем тёмные, совсем забитые люди могут верить лжи и клевете, распространяемой против евреев. Это — остатки старого крепостного времени, когда попы заставляли сжигать еретиков на кострах, когда существовало рабство крестьян, когда народ был задавлен и безгласен. Эта старая крепостническая темнота проходит. Hарод становится зрячим.\nДа здравствует братское доверие и боевой союз рабочих всех наций в борьбе за свержение капитала!",
+      "translation": "Hatred towards the Jews persists only in those countries where slavery to the landowners and capitalists has created abysmal ignorance among the workers and peasants. Only the most ignorant and downtrodden people can believe the lies and slander that are spread about the Jews. This is a survival of ancient feudal times, when the priests burned heretics at the stake, when the peasants lived in slavery, and when the people were crushed and inarticulate. This ancient, feudal ignorance is passing away; the eyes of the people are being opened. \nLong live the fraternal trust and fighting alliance of the workers of all nations in the struggle to overthrow capital",
+      "source": "excerpt from a speech given in March 1919"
     },
     {
       "author": "Karl Marx",
@@ -110,13 +128,13 @@
     },
     {
       "author": "John Steinbeck",
-      "text": "I guess the trouble was that we didn’t have any self-admitted proletarians. Everyone was a temporarily embarrassed capitalist. Maybe the Communists so closely questioned by investigation committees were a danger to America, but the ones I knew—at least they claimed to be Communists—couldn’t have disrupted a Sunday-school picnic. Besides they were too busy fighting among themselves.",
+      "text": "I guess the trouble was that we didn't have any self-admitted proletarians. Everyone was a temporarily embarrassed capitalist. Maybe the Communists so closely questioned by investigation committees were a danger to America, but the ones I knew—at least they claimed to be Communists—couldn't have disrupted a Sunday-school picnic. Besides they were too busy fighting among themselves.",
       "translation": null,
-      "source": "excerpt from 'A Primer on the 30’s' in Esquire Magazine 01.06.1960"
+      "source": "excerpt from 'A Primer on the 30's' in Esquire Magazine 01.06.1960"
     },
     {
       "author": "Nina Simone",
-      "text": "We never talked about men or clothes. It was always Marx, Lenin, and revolution — real girls’ talk.",
+      "text": "We never talked about men or clothes. It was always Marx, Lenin, and revolution — real girls' talk.",
       "translation": null,
       "source": "from her memoir I Put A Spell On You (ch. 6), 1991"
     },
@@ -129,7 +147,7 @@
     {
       "author": "Diego Maradona",
       "text": "Los americanos me daban un premio y me daban un premio en Cuba. Dije, americano, quédense con el premio. Yo voy a recibirlo a Cuba.",
-      "translation": "The Americans gave me an award. They gave me one in Cuba as well. I told the Americans: Keep it for yourselves, I’m getting one in Cuba!",
+      "translation": "The Americans gave me an award. They gave me one in Cuba as well. I told the Americans: Keep it for yourselves, I'm getting one in Cuba!",
       "source": "1987"
     },
     {
@@ -200,7 +218,7 @@
     },
     {
       "author": "Benito Antonio 'Bad Bunny' Martínez Ocasio",
-      "text": "English is not my first language. But it’s OK, it’s not America’s first language either.",
+      "text": "English is not my first language. But it's OK, it's not America's first language either.",
       "translation": null,
       "source": "Feb 2026"
     },
@@ -212,9 +230,21 @@
     },
     {
       "author": "Michael Parenti",
-      "text": "The free market does not work. It’s not free. It’s not really a market; it’s a plunder. And it has to be done away with.",
+      "text": "The free market does not work. It's not free. It's not really a market; it's a plunder. And it has to be done away with.",
       "translation": null,
       "source": "on Democracy Now! in 2009"
+    },
+    {
+      "author": "Thomas Sankara",
+      "text": "Le capitalisme est le pyromane de nos forêts.\nIl faut choisir entre le champagne pour quelques-uns et l’eau potable pour tous.",
+      "translation": "Capitalism is the arsonist of our forests.\nWe must choose between champagne for a few or drinking water for all.",
+      "source": "quoted in the documentary 'Sankara' from Yohan Malka, 2021"
+    },
+    {
+      "author": "Thomas Sankara",
+      "text": "La Révolution et l’émancipation de la femme vont de pair. Et ce n’est pas un acte de charité ou un élan d’humanisme que de parler de l’émancipation de la femme. C’est une nécessité fondamentale pour le triomphe de la Révolution. Les femmes portent en elles l’autre moitié du ciel",
+      "translation": "The revolution and women's liberation go together. We do not talk of women's emancipation as an act of charity or out of a surge of human compassion. It is a fundamental necessity for the triumph of the Revolution. Women carry within them the other half of the sky.",
+      "source": "from a speech given at a rally in Ouagadougou, 08.03.1987"
     },
     {
       "author": "Albert Einstein",
@@ -224,7 +254,7 @@
     },
     {
       "author": "Malcolm X",
-      "text": "If you stick a knife in my back nine inches and pull it out six inches, there’s no progress. If you pull it all the way out that’s not progress. Progress is healing the wound that the blow made. And they haven’t even pulled the knife out much less heal the wound. They won’t even admit the knife is there.",
+      "text": "If you stick a knife in my back nine inches and pull it out six inches, there's no progress. If you pull it all the way out that's not progress. Progress is healing the wound that the blow made. And they haven't even pulled the knife out much less heal the wound. They won't even admit the knife is there.",
       "translation": null,
       "source": "from a tv interview given in 1964"
     },
@@ -242,7 +272,7 @@
     },
     {
       "author": "Toni Morrison",
-      "text": "The function, the very serious function of racism is distraction. It keeps you from doing your work. It keeps you explaining, over and over again, your reason for being. Somebody says you have no language and you spend twenty years proving that you do. Somebody says your head isn’t shaped properly so you have scientists working on the fact that it is. Somebody says you have no art, so you dredge that up. Somebody says you have no kingdoms, so you dredge that up. None of this is necessary. There will always be one more thing.",
+      "text": "The function, the very serious function of racism is distraction. It keeps you from doing your work. It keeps you explaining, over and over again, your reason for being. Somebody says you have no language and you spend twenty years proving that you do. Somebody says your head isn't shaped properly so you have scientists working on the fact that it is. Somebody says you have no art, so you dredge that up. Somebody says you have no kingdoms, so you dredge that up. None of this is necessary. There will always be one more thing.",
       "translation": null,
       "source": ""
     },
@@ -254,7 +284,7 @@
     },
     {
       "author": "Kwame Ture",
-      "text": "Dr. King’s policy was, if you are nonviolent, if you suffer, your opponent will see your suffering and will be moved to change his heart. That’s very good. He only made one fallacious assumption. In order for nonviolence to work, your opponent must have a conscience. The United States has none.",
+      "text": "Dr. King's policy was, if you are nonviolent, if you suffer, your opponent will see your suffering and will be moved to change his heart. That's very good. He only made one fallacious assumption. In order for nonviolence to work, your opponent must have a conscience. The United States has none.",
       "translation": null,
       "source": "The Black Power Mixtape 1967-1975"
     },
@@ -308,7 +338,7 @@
     },
     {
       "author": "Zohran Mamdani",
-      "text": "I cannot help but think of the words of our 40th president, Ronald Reagan. He famously said, 'The nine most terrifying words in the English language are, I'm from the government and I'm here to help.' It’s a good quote, but I disagree, I think nine more terrifying words are actually, ‘I worked all day and can’t feed my family.'",
+      "text": "I cannot help but think of the words of our 40th president, Ronald Reagan. He famously said, 'The nine most terrifying words in the English language are, I'm from the government and I'm here to help.' It's a good quote, but I disagree, I think nine more terrifying words are actually, ‘I worked all day and can't feed my family.'",
       "translation": null,
       "source": "during a press conference on Affordability, 18.05.2026"
     },
@@ -356,7 +386,7 @@
     },
     {
       "author": "Billie Eilish",
-      "text": "If you’re a billionaire, why are you a billionaire? No hate, but yeah, give your money away, shorties.",
+      "text": "If you're a billionaire, why are you a billionaire? No hate, but yeah, give your money away, shorties.",
       "translation": null,
       "source": "while accepting the WSJ Music Innovator of the Year award, 29.10.2025"
     },
@@ -364,7 +394,7 @@
       "author": "Jim Morrison",
       "text": "Whoever controls the media, controls the mind.",
       "translation": null,
-      "source": "reportedly said in 1969 from ‘In Their Own Words: The Doors’, 1988"
+      "source": "reportedly said in 1969 from ‘In Their Own Words: The Doors', 1988"
     },
     {
       "author": "St. Thomas Aquinas",
@@ -374,7 +404,7 @@
     },
     {
       "author": "Liam Óg Ó hAnnaidh",
-      "text": "I know we're out, we're enjoying ourselves and we're trying to listen to some tunes at a festival... believe me lads, I wish I didn't have to do this... but the world's not listening. The world needs to see solidarity of 20,000 people in a park in London chanting, 'free free Palestine!’ Let's remember how lucky we are to be in a field with our friends and not being bombed from the sky.",
+      "text": "I know we're out, we're enjoying ourselves and we're trying to listen to some tunes at a festival... believe me lads, I wish I didn't have to do this... but the world's not listening. The world needs to see solidarity of 20,000 people in a park in London chanting, 'free free Palestine!' Let's remember how lucky we are to be in a field with our friends and not being bombed from the sky.",
       "translation": null,
       "source": "Wide Awake 23.05.2025"
     },
@@ -398,7 +428,7 @@
     },
     {
       "author": "Reggie Watts",
-      "text": "You don’t need to be a geopolitics scholar to know that starving children and slaughtering families is wrong. Your membership in the human family gives you authority and, indeed, responsibility to speak up. All positive change starts with conscious and loving people raising their voices and working together to bring a better world into existence.",
+      "text": "You don't need to be a geopolitics scholar to know that starving children and slaughtering families is wrong. Your membership in the human family gives you authority and, indeed, responsibility to speak up. All positive change starts with conscious and loving people raising their voices and working together to bring a better world into existence.",
       "translation": null,
       "source": "responding to Thom Yorke's statement on Israel's genocide in Gaza, via Instagram, 30.05.2025"
     },
@@ -422,7 +452,7 @@
     },
     {
       "author": "Stephen Jay Gould",
-      "text": "I am, somehow, less interested in the weight and convolutions of Einstein’s brain than in the near certainty that people of equal talent have lived and died in cotton fields and sweatshops.",
+      "text": "I am, somehow, less interested in the weight and convolutions of Einstein's brain than in the near certainty that people of equal talent have lived and died in cotton fields and sweatshops.",
       "translation": null,
       "source": "from 'Wide Hats and Narrow Minds' in New Scientist, 1979"
     },
@@ -471,7 +501,7 @@
     {
       "author": "Antonio Gramsci",
       "text": "Sono pessimista con l'intelligenza, ma ottimista per la volontà.",
-      "translation": "I’m a pessimist because of intelligence, but an optimist because of will.",
+      "translation": "I'm a pessimist because of intelligence, but an optimist because of will.",
       "source": "excerpt from his Prison Notebooks, 19.12.1929"
     },
     {
@@ -482,7 +512,7 @@
     },
     {
       "author": "Rasha Abdulhadi",
-      "text": "at least in my heart, the war can’t have you, my friend— / and wherever the last domino of my body falls, / let me land as a gear-breaking wedge— / the murder wheel won’t win my shame. / i won’t let them kill me before i die / and i offer you the same.",
+      "text": "at least in my heart, the war can't have you, my friend— / and wherever the last domino of my body falls, / let me land as a gear-breaking wedge— / the murder wheel won't win my shame. / i won't let them kill me before i die / and i offer you the same.",
       "translation": null,
       "source": "Pocketful of Warding Stones, Oct 2023"
     },
@@ -494,7 +524,7 @@
     },
     {
       "author": "Greta Thunberg",
-      "text": "For me, there is no way of distinguishing the two. We cannot have climate justice without social justice. The reason why I am a climate activist is not because I want to protect trees. I’m a climate activist because I care about human and planetary well-being, and those are extremely interlinked.",
+      "text": "For me, there is no way of distinguishing the two. We cannot have climate justice without social justice. The reason why I am a climate activist is not because I want to protect trees. I'm a climate activist because I care about human and planetary well-being, and those are extremely interlinked.",
       "translation": null,
       "source": "onboard the Madleen towards Gaza, speaking to Amy Goodman on Democracy Now!, June 04 2025"
     },
@@ -512,7 +542,7 @@
     },
     {
       "author": "Naomi Shulman",
-      "text": "Nice people made the best Nazis. My mom grew up next to them. They got along, refused to make waves, looked the other way when things got ugly and focused on happier things than 'politics.' They were lovely people who turned their heads as their neighbors were dragged away. You know who weren’t nice people? Resisters.",
+      "text": "Nice people made the best Nazis. My mom grew up next to them. They got along, refused to make waves, looked the other way when things got ugly and focused on happier things than 'politics.' They were lovely people who turned their heads as their neighbors were dragged away. You know who weren't nice people? Resisters.",
       "translation": null,
       "source": "part of a speech during the 2019 NYC Queer Liberation March"
     },
@@ -532,7 +562,7 @@
       "author": "J. Krishnamurti",
       "text": "It is no measure of health to be well adjusted to a profoundly sick society.",
       "translation": null,
-      "source": "attributed to Krishnamurti by Sinéad O’Connor and Kurt vonnegut"
+      "source": "attributed to Krishnamurti by Sinéad O'Connor and Kurt vonnegut"
     },
     {
       "author": "James Baldwin",
@@ -542,7 +572,7 @@
     },
     {
       "author": "James Baldwin",
-      "text": "The role of the artist is exactly the same as the role of the lover. If I love you, I have to make you conscious of the things you don’t see.",
+      "text": "The role of the artist is exactly the same as the role of the lover. If I love you, I have to make you conscious of the things you don't see.",
       "translation": null,
       "source": "paraphrased excerpt from 'Conversations with James Baldwin', 1973"
     },
@@ -560,7 +590,7 @@
     },
     {
       "author": "Adam Conover",
-      "text": "We all really feel like the world is f–ked up. You know, that like, things are wrong in America, and we have the opportunity here to go and actually fix one of them with our collective action! The Guild is asking me to come out here every day and picket for four hours. And if I do that, I can help stop Teamster trucks from going into that building, and we can halt productions and that’ll shorten the strike and that’ll make them come to the table, and that’ll make them cut the workers in on their profits. And I get to actually move the boulder of how f–ked up things are in America by showing up here with a sign. That’s incredible!",
+      "text": "We all really feel like the world is f–ked up. You know, that like, things are wrong in America, and we have the opportunity here to go and actually fix one of them with our collective action! The Guild is asking me to come out here every day and picket for four hours. And if I do that, I can help stop Teamster trucks from going into that building, and we can halt productions and that'll shorten the strike and that'll make them come to the table, and that'll make them cut the workers in on their profits. And I get to actually move the boulder of how f–ked up things are in America by showing up here with a sign. That's incredible!",
       "translation": null,
       "source": "describing his first strike in an interview with The Wrap, 02.05.2023"
     },
@@ -572,7 +602,7 @@
     },
     {
       "author": "James Talarico",
-      "text": "There’s a theologian who said, ‘I screamed at God for the starving children until I realized that the starving children was God screaming at me.’ And God is screaming at all of us in Gaza as we speak.",
+      "text": "There's a theologian who said, ‘I screamed at God for the starving children until I realized that the starving children was God screaming at me.' And God is screaming at all of us in Gaza as we speak.",
       "translation": null,
       "source": "on MSNBC, 15.09.2025"
     },
@@ -581,6 +611,12 @@
       "text": "No, that's boring. I'm not turned on by space. I know it's lack of imagination or something, but this planet we've got is so packed with excitement! . . . Why do you have to have a great thousands of towns of energy burning away up your backside and shooting you up into space, where you're going to turn around for weeks, in darkness. Nothing happening! I'd much rather go on the Barrier Reef.",
       "translation": null,
       "source": "when asked if he'd ever go into space on The Jonathan Ross Show, 28.11.2015"
+    },
+    {
+      "author": "Natalie Kyriacou",
+      "text": "How do you think we will be written about in history books? . . . We were the only species that actively debated whether or not we should maintain the environmental conditions necessary for our own continued existence . . . Environmental debates became so tedious that by the end of it, even the environmentalists were sick of the environment. Children were starving on mass and though we had the ability to stop that, we chose not to.",
+      "translation": null,
+      "source": "from her address at Reclaiming Democracy Together, 2026"
     },
     {
       "author": "Steve Irwin",
@@ -608,13 +644,13 @@
     },
     {
       "author": "Stavros Halkias",
-      "text": "In my head, I don’t see masculinity and progress as being at odds. You’re not stripping anything from men by asking them to just use some of those advantages - if we’re saying there are advantages to masculinity- to help other people.",
+      "text": "In my head, I don't see masculinity and progress as being at odds. You're not stripping anything from men by asking them to just use some of those advantages - if we're saying there are advantages to masculinity- to help other people.",
       "translation": null,
       "source": "from an interview with GQ, 2025"
     },
     {
       "author": "Joe Talbot",
-      "text": "Whatever we do, our fate’s the same. So Smash and dance and hold love in. We all know ourselves, we just don’t know it yet. So smash and dance and hold love in. Kill your quiet, kill your qualms and smash and dance and hold love in.",
+      "text": "Whatever we do, our fate's the same. So Smash and dance and hold love in. We all know ourselves, we just don't know it yet. So smash and dance and hold love in. Kill your quiet, kill your qualms and smash and dance and hold love in.",
       "translation": null,
       "source": "speaking on 'Mother', by Idles"
     },
@@ -623,6 +659,18 @@
       "text": "Punk expressed the way I felt socially and politically. There were so many things going on at once. It expressed the anger that I felt the alienation.",
       "translation": null,
       "source": "Speaking to Guitar World, 1993"
+    },
+    {
+      "author": "Kurt Cobain",
+      "text": "At this point I have a request for our fans. If any of you in any way hate homosexuals, people of different color, or women, please do this one favor for us - leave us the fuck alone! Don't come to our shows and don't buy our records.",
+      "translation": null,
+      "source": "Incesticide liner notes, 1992"
+    },
+    {
+      "author": "Courtney Love",
+      "text": "I think that in America we chose convenience over individuality and now we're paying for it . . . I mean, it's like a corporate world. You're going to be looking up at the Milky Way and it's be called the Philip Morris Milky Way. You know, it'll be called the Sony National Forest. I mean, you know, your town, Berlin's going to be renamed, I don't know, Exxonville...",
+      "translation": null,
+      "source": "excerpt from an interview in Berlin, 1999"
     },
     {
       "author": "Harrison Ford",
@@ -634,7 +682,7 @@
       "author": "Jacob Margolis",
       "text": "My battery is low and it's getting dark.",
       "translation": null,
-      "source": "Poetic translation of Opportunity rover’s ‘last words’ before coming to rest in Perseverance Valley, June 2019."
+      "source": "Poetic translation of Opportunity rover's 'last words' before coming to rest in Perseverance Valley, June 2019."
     },
     {
       "author": "Miyazaki Hayao",
@@ -644,13 +692,13 @@
     },
     {
       "author": "Guillermo Del Toro",
-      "text": "AI, particularly generative AI — I am not interested, nor will I ever be interested. I’m 61, and I hope to be able to remain uninterested in using it at all until I croak . . . The other day, somebody wrote me an email, said, \"What is your stance on AI?\" And my answer was very short. I said, \"I’d rather die.\"",
+      "text": "AI, particularly generative AI — I am not interested, nor will I ever be interested. I'm 61, and I hope to be able to remain uninterested in using it at all until I croak . . . The other day, somebody wrote me an email, said, \"What is your stance on AI?\" And my answer was very short. I said, \"I'd rather die.\"",
       "translation": null,
       "source": "from an interview with NPR, 2025"
     },
     {
       "author": "Bong Joon Ho",
-      "text": "My official answer is, AI is good because it’s the very beginning of the human race finally seriously thinking about what only humans can do. But my personal answer is, I’m going to organize a military squad, and their mission is to destroy AI.",
+      "text": "My official answer is, AI is good because it's the very beginning of the human race finally seriously thinking about what only humans can do. But my personal answer is, I'm going to organize a military squad, and their mission is to destroy AI.",
       "translation": null,
       "source": "in answer to a question at the Marrakech Film Festival, 2025"
     },
@@ -692,18 +740,18 @@
     },
     {
       "author": "Christopher Hitchens",
-      "text": "There is an unusually high and consistent correlation between the stupidity of a given person and that person’s propensity to be impressed by the measurement of IQ.",
+      "text": "There is an unusually high and consistent correlation between the stupidity of a given person and that person's propensity to be impressed by the measurement of IQ.",
       "translation": null,
       "source": "from 'Minority Report' in The Nation, 28.11.1994"
     },
     {
       "author": "Hanoi Hannah",
-      "text": "G.I., your government has abandoned you. They have ordered you to die. Don’t trust them. They lied to you, G.I.s, you know you cannot win this war.",
+      "text": "G.I., your government has abandoned you. They have ordered you to die. Don't trust them. They lied to you, G.I.s, you know you cannot win this war.",
       "translation": null,
       "source": ""
     },
     {
-      "author": "Samuel ‘Black Sam’ Bellamy",
+      "author": "Samuel ‘Black Sam' Bellamy",
       "text": "I am a free prince, and I have as much authority to make war on the whole world as he who has a hundred sail of ships at sea and an army of 100,000 men in the field; and this my conscience tells me! But there is no arguing with such snivelling puppies, who allow superiors to kick them about deck at pleasure.",
       "translation": null,
       "source": "reportedly spoken to Captain Beer after capturing his ship, A General History of Pyrates 1724"
@@ -728,7 +776,7 @@
     },
     {
       "author": "Solanum of the Nomai",
-      "text": "It’s tempting to linger in this moment, while every possibility still exists. But unless they are collapsed by an observer, they will never be more than possibilities.",
+      "text": "It's tempting to linger in this moment, while every possibility still exists. But unless they are collapsed by an observer, they will never be more than possibilities.",
       "translation": null,
       "source": "Outer Wilds, 2019"
     },
@@ -758,7 +806,7 @@
     },
     {
       "author": "Kurt Vonnegut Jr.",
-      "text": "She says, \"Well, you’re not a poor man. Why don’t you go online and buy a hundred envelopes and put them in the closet?\" And so I pretend not to hear her and go out to get an envelope; because I’m going to have a hell of a good time in the process of buying one envelope.\n\nWell, I meet a lot of people; and uh… see some great looking babes; and a fire engine goes by and I give them the 'thumbs up'. And ask a woman what kind of dog that is… And, I don’t know… The moral of the story is, we’re here on Earth to fart around.\n\nAnd, of course, the computers will do us out of that. And, what the computer people don’t realize – or they don’t care – is we’re dancing animals. You know; we love to move around. And we’re not supposed to dance at all anymore.",
+      "text": "She says, \"Well, you're not a poor man. Why don't you go online and buy a hundred envelopes and put them in the closet?\" And so I pretend not to hear her and go out to get an envelope; because I'm going to have a hell of a good time in the process of buying one envelope.\n\nWell, I meet a lot of people; and uh… see some great looking babes; and a fire engine goes by and I give them the 'thumbs up'. And ask a woman what kind of dog that is… And, I don't know… The moral of the story is, we're here on Earth to fart around.\n\nAnd, of course, the computers will do us out of that. And, what the computer people don't realize – or they don't care – is we're dancing animals. You know; we love to move around. And we're not supposed to dance at all anymore.",
       "translation": null,
       "source": "describing a story from 'A Man Without A Country' in an interview with David Brancaccio on PBS NOW, 2005"
     },
@@ -800,7 +848,7 @@
     },
     {
       "author": "Ian C. Esslemont",
-      "text": "The wise say that as vows are sworn, so are they reaped. I have found this to be true. - K’azz D’Avore",
+      "text": "The wise say that as vows are sworn, so are they reaped. I have found this to be true. - K'azz D'Avore",
       "translation": null,
       "source": "Return of the Crimson Guard, 2008"
     },
@@ -812,7 +860,7 @@
     },
     {
       "author": "Ernest Hemingway",
-      "text": "I’ll say a hundred Our Fathers and a hundred Hail Marys. But I cannot say them now. Consider them said, he thought. I’ll say them later.",
+      "text": "I'll say a hundred Our Fathers and a hundred Hail Marys. But I cannot say them now. Consider them said, he thought. I'll say them later.",
       "translation": null,
       "source": "The Old Man And The Sea, 1952"
     },
@@ -836,7 +884,7 @@
     },
     {
       "author": "Michael Crichton",
-      "text": "All major changes are like death, you can’t see to the other side until you are there.",
+      "text": "All major changes are like death, you can't see to the other side until you are there.",
       "translation": null,
       "source": "Jurassic Park, Fifth Iteration, 1990"
     },
@@ -872,7 +920,7 @@
     },
     {
       "author": "Carl Sagan",
-      "text": "How certain was it that the Russians were going to invade? Was it 100% certain? Guess not since they never invaded. What if it was only, let’s say 10% certain? What would advocates of big military buildup have said? We must be prudent. It’s not enough to count on only the most likely circumstance . . . I ask my friends who are comfortable with that argument . . . why doesn’t that same argument apply to Global Warming?",
+      "text": "How certain was it that the Russians were going to invade? Was it 100% certain? Guess not since they never invaded. What if it was only, let's say 10% certain? What would advocates of big military buildup have said? We must be prudent. It's not enough to count on only the most likely circumstance . . . I ask my friends who are comfortable with that argument . . . why doesn't that same argument apply to Global Warming?",
       "translation": null,
       "source": "part of his speech at the 5th Emerging Issues Forum, 1990"
     },
@@ -896,7 +944,7 @@
     },
     {
       "author": "David Griscom",
-      "text": "Class politics, at its heart, is the recognition that there are others who share your interests and needs, and that by working together, those needs can be met. And while abstract principles are important, alongside calls for solidarity with the people and the working-class, it is even better when you know the names of those you are standing with. It is the expansion of the self, of your hopes and dreams, stretching one’s sense of justice, beyond one person’s creature comforts, to having right done to your neighbors, to your neighbors’ neighbors, and so on.",
+      "text": "Class politics, at its heart, is the recognition that there are others who share your interests and needs, and that by working together, those needs can be met. And while abstract principles are important, alongside calls for solidarity with the people and the working-class, it is even better when you know the names of those you are standing with. It is the expansion of the self, of your hopes and dreams, stretching one's sense of justice, beyond one person's creature comforts, to having right done to your neighbors, to your neighbors' neighbors, and so on.",
       "translation": null,
       "source": "The Myth of Red Texas, 2026"
     },
@@ -914,9 +962,9 @@
     },
     {
       "author": "Eugène Pottier",
-      "text": "C’est la lutte finale\nGroupons-nous et demain\nL’Internationale\nSera le genre humain.",
+      "text": "C'est la lutte finale\nGroupons-nous et demain\nL'Internationale\nSera le genre humain.",
       "translation": "This is our grand finale,\nStand as one, each in place!\nThe Internationale\nUnites the human race!",
-      "source": "L’Internationale, June 1871"
+      "source": "L'Internationale, June 1871"
     },
     {
       "author": "T.S. Eliot",
@@ -932,7 +980,7 @@
     },
     {
       "author": "Marwan Makhoul",
-      "text": "In order for me to write poetry that isn’t political\nI must listen to the birds\nand in order to hear the birds\nthe warplanes must be silent.",
+      "text": "In order for me to write poetry that isn't political\nI must listen to the birds\nand in order to hear the birds\nthe warplanes must be silent.",
       "translation": null,
       "source": "'On Politics and Poetry'"
     },
@@ -957,7 +1005,7 @@
     {
       "author": "Dinos Christianopoulos",
       "text": "καὶ τί δὲν κάνατε γιὰ νὰ μὲ θάψετε\nὅμως ξεχάσατε πὼς ἤμουν σπόρος",
-      "translation": "what didn’t you do to bury me\nbut you forgot that I was a seed",
+      "translation": "what didn't you do to bury me\nbut you forgot that I was a seed",
       "source": "from The Body and the Wormwood, 1960s"
     },
     {
@@ -1016,7 +1064,7 @@
     },
     {
       "author": "Bernie Sanders",
-      "text": "I believe that, as a human being, the pain that one person feels, if we have children who are hungry in America, if we have elderly people who can't afford their prescription drugs, you know what, that impacts you, that impacts me. And I worry very much about a society where some people spiritually say, it doesn't matter to me. I got it, I don't care about other people. So my spirituality is that we are all in this together and that when children go hungry, when veterans sleep out on the street, it impacts me. That’s my very strong spiritual feeling.",
+      "text": "I believe that, as a human being, the pain that one person feels, if we have children who are hungry in America, if we have elderly people who can't afford their prescription drugs, you know what, that impacts you, that impacts me. And I worry very much about a society where some people spiritually say, it doesn't matter to me. I got it, I don't care about other people. So my spirituality is that we are all in this together and that when children go hungry, when veterans sleep out on the street, it impacts me. That's my very strong spiritual feeling.",
       "translation": null,
       "source": "New Hampshire Democratic town hall, 04.02.2016"
     },
@@ -1060,7 +1108,7 @@
       "author": "",
       "text": "la derecha oprime, la izquierda libera",
       "translation": "the right oppresses, the left liberates",
-      "source": "‘rightie-tightie, leftie-loosie’"
+      "source": "‘rightie-tightie, leftie-loosie'"
     },
     {
       "author": "",
@@ -1088,7 +1136,7 @@
     },
     {
       "author": "",
-      "text": "If wishes were fishes, we’d all cast nets.",
+      "text": "If wishes were fishes, we'd all cast nets.",
       "translation": null,
       "source": ""
     },
